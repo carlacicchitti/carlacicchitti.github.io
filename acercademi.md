@@ -9,7 +9,7 @@ show_tile: true
 
 Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo.
 
-Mi historia.
+<h2 id="Mi historia">Mi historia</h2>Mi historia.
 
 Actualmente mi objetivo es transmitir a las personas que llevar una alimentación equilibrada no es cosa de unos pocos, que todos podemos llevar una vida saludable, la CLAVE es aprender a elegir que nos permitan comer de todo sin pasar a generar ciclos repetitivos entre restricciones y excesos de alimentos.
 
