@@ -2,7 +2,7 @@
 layout: post
 title: Acerca de mí
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/2 - Carla Cicchitti.jpeg
 nav-menu: true
 show_tile: true
 ---
