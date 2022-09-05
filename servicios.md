@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="asesorías online">Asesorías online</h2>
 <p>Las asesorías nutricionales dependerán de tu objetivos y características individuales como tu historial cínico, hábitos, preferencias, actividad física que realizas habitualmente.
-	Si quieres mejorar hábitos, bajar de peso a partir de masa grasa, incrementar masa muscular o aprender a comer no dudes en contactarme.</p>
+Si quieres mejorar hábitos, bajar de peso a partir de masa grasa, incrementar masa muscular o aprender a comer no dudes en contactarme.</p>
 
 <div class="row">
   <div class="4u 12u$(medium)">
