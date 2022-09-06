@@ -39,41 +39,37 @@ Ene - Sep 2019: Nutricionista deportivo en contrato de prácticas  (FCB)
 <!-- Table -->
 <h3>Table</h3>
 
-<h4>Default</h4>
+<h4>Formación</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
+				<th>Tiempo</th>
+				<th>Descripción</th>
+				<th>Ubicación</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>Ene - Sep 2019</td>
+				<td>Nutricionista deportivo en contrato de prácticas.</td>
+				<td>Fútbol Club Barcelona (FCB)</td>
 			</tr>
 			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
+				<td>2018 - 2019</td>
+				<td>Máster en Nutrición en Actividad Física y Deporte.</td>
+				<td>Universitat de Barcelona (UB)</td>
 			</tr>
 			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
+				<td>2017 - 2018</td>
+				<td> Licenciatura en nutrición.</td>
+				<td>Universidad Maza</td>
 			</tr>
 			<tr>
-				<td>Item4</td>
+				<td>2007 - 2016</td>
 				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>Grado en Nutrición y Dietética (U. Maza) - Homologado a Grado de Dieista Nutricionista España
+
 			</tr>
 		</tbody>
 		<tfoot>
