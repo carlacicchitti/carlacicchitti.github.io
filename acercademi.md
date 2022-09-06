@@ -36,7 +36,7 @@ Ene - Sep 2019: Nutricionista deportivo en contrato de prácticas  (FCB)
 2007 - 2016: Grado en Nutrición y Dietética (U. Maza) - Homologado a Grado de Dieista Nutricionista España
 
 
-<!-- Table -->
+<!-- Formación -->
 <h3>Table</h3>
 
 <div class="table-wrapper">
