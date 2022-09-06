@@ -29,9 +29,9 @@ nav-menu: true
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
-	<li><a href="#" class="button big">57 €</a></li>
-		
-	  
+		<p></p>
+		<a href="#" class="button big">57 €</a>
+	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Pauta nutricional + 5 seguimientos</h3>
 		<p><p><li>Cuestionario y valoración nutricional.</li>
@@ -40,8 +40,9 @@ nav-menu: true
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
-    	<li><a href="#" class="button special big">230 €</a></li>
-
+		<p></p>
+    		<a href="#" class="button special big">230 €</a>
+	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Pauta nutricional + 3 seguimientos</h3>
 		<p><p><p><li>Cuestionario y valoración nutricional.</li>
@@ -50,7 +51,9 @@ nav-menu: true
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
-	<li><a href="#" class="button big">150</a></li>
+		<p></p>
+		<a href="#" class="button big">150</a>
+	</div>
 
  
 <!-- Content -->
