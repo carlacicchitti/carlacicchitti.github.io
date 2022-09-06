@@ -34,7 +34,7 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Pauta nutricional + 5 seguimientos</h3>
-		<p><p><li>Cuestionario y valoración nutricional.</li>
+		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
@@ -45,7 +45,7 @@ nav-menu: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Pauta nutricional + 3 seguimientos</h3>
-		<p><p><p><li>Cuestionario y valoración nutricional.</li>
+		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
