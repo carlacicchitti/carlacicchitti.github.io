@@ -7,13 +7,10 @@ nav-menu: true
 show_tile: false
 ---
 
-Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo.
-
-Actualmente mi objetivo es transmitir a las personas que llevar una alimentación equilibrada no es cosa de unos pocos, que todos podemos llevar una vida saludable, la CLAVE es aprender a elegir que nos permitan comer de todo sin pasar a generar ciclos repetitivos entre restricciones y excesos de alimentos.
-
-Por otro lado, me dedico a ayudar a deportistas a cumplir sus objetivos, ya sea modificar su composición corporal, mejorar su rendimiento deportivo o planificar nutrición para competiciones.
-
-Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centros deportivos.
+<p>Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace tiempo, y es por ello que intento transmitir que llevar una VIDA SALUDABLE con una alimentación equilibrada y entrenando es posible para todos, se trata de trabajar la confianza en uno mismo, dejar de lado ciclos repetitivos entre restricciones y excesos alimentarios, aprender a comer y moverte!.<p/>
+<p>Una vez que entras en ritmo no quieres dejar ésta forma de vivir que te hará sentir bien, inclusive en emociones y pensamientos.<p/>
+<p>Por otro lado, me dedico a ayudar a deportistas a cumplir sus objetivos, ya sea modificar su composición corporal, mejorar su rendimiento deportivo o planificar nutrición para competiciones<p/>
+<p>Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centros deportivos.<p>
 
 <h2 id="Mi historia">Mi historia</h2>
 
