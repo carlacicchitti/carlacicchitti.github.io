@@ -42,7 +42,6 @@ Ene - Sep 2019: Nutricionista deportivo en contrato de prácticas  (FCB)
 <h4>Formación</h4>
 <div class="table-wrapper">
 	<table>
-		</thead>
 		<tbody>
 			<tr>
 				<td>Ene - Sep 2019</td>
@@ -69,5 +68,3 @@ Ene - Sep 2019: Nutricionista deportivo en contrato de prácticas  (FCB)
 				<td colspan="2"></td>
 			</tr>
 		</tfoot>
-	</table>
-</div>
