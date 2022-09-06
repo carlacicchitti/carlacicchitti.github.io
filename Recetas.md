@@ -33,7 +33,7 @@ nav-menu: true
 				</header>
 				<p>Una opción equilibrada y nutritiva para preparar.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">¿Cómo preparar?</a></li>
+					<li><a href="receta1.md" class="button">¿Cómo preparar?</a></li>
 				</ul>
 			</div>
 		</div>
