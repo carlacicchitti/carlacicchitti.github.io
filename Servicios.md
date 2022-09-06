@@ -21,7 +21,7 @@ nav-menu: true
 <h2 id="asesorías online">Asesorías online</h2>
 <p>Para iniciar la asesoría online deberás enviar un correo electrónico marcando la opción que te interesa</p>
 
-<div class="row">
+	<div class="row">
   	<div class="4u 12u$(medium)">
 		<h3>Mensual Online</h3>
 		<p><li>Cuestionario y valoración nutricional.</li>
@@ -30,22 +30,20 @@ nav-menu: true
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
 		</div>
-		
-    <li><a href="#" class="button big">57 €</a></li>
+	<li><a href="#" class="button big">57 €</a></li>
 	  
-<div class="4u 12u$(medium)">
+	<div class="4u 12u$(medium)">
 		<h3>Pauta nutricional + 5 seguimientos</h3>
 		<p><p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
-		<li>5 visitas de seguimiento online.</li></p>
-		</div>
-		
-    <li><a href="#" class="button special big">230 €</a></li>
+		<li>5 visitas de seguimiento online.</li></p>	
+    	<li><a href="#" class="button special big">230 €</a></li>
+	</div>
 	
-<div class="4u$ 12u$(medium)">
+	<div class="4u$ 12u$(medium)">
 		<h3>Pauta nutricional + 3 seguimientos</h3>
 		<p><p><p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
@@ -53,16 +51,15 @@ nav-menu: true
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
-		</div>
-		
-    <li><a href="#" class="button big">150</a></li>
+	<li><a href="#" class="button big">150</a></li>
+	</div>
 
-    
+ 
 <!-- Content -->
 <h2 id="content">Asesorías presenciales</h2>
 <p>Para solicitar una asesoría presencial contacta con el centro/club más cercano o que se adapte a tus necesidades.</p>
 
-<div class="row">
+	<div class="row">
 	<!-- Break -->
 	<div class="3u 12u$(medium)">
 		<h3>Club de Natación Atlètic Barceloneta (ZONA)</h3>
