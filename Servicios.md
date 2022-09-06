@@ -27,9 +27,9 @@ nav-menu: true
 		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
-		<li>Asesoramiento sobre suplementación (de ser necesario).</li></p>.</p>
-		<li>Resolución de dudas (email) durante duración de servicio.</li></p>.</p>
-		<li>.</li></p>.</p>
+		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
+		<li>Resolución de dudas (email) durante duración de servicio.</li>
+		<li></li>
     <li><a href="#" class="button big">57 €</a></li>
 	</div>
 	<div class="4u 12u$(medium)">
