@@ -16,7 +16,7 @@ nav-menu: true
 			<h2>Consejo</h2>
 		</header>
 		<p>A veces creemos que para llevar una alimentación saludable debemos dejar una buena suma de dinero al mes o cocinar de manera que tenemos que obtener nuestro título de chef, "recetas gourmet". Es por ello que he decidido crear esta sección donde iré colgando algunas recetas que pueden ayudarte a tener ideas cuando te preguntas "¿qué hago para comer?.</p>
-		<p>Te recomiendo que antes de llevar a cabo cualquier receta te organices y planifiques tu semana, y hagas una "buena compra" con todo aquello que utilizarás. Ten en cuenta que cuando no planificamos previamente nos encontraremos consumiendo "cualquier cosa que encontraremos en la nevera"</p>
+		<p>Te recomiendo que antes de llevar a cabo cualquier receta te organices y planifiques tu semana, y hagas una "buena compra" con todo aquello que utilizarás. Ten en cuenta que cuando no planificamos previamente nos encontraremos consumiendo "cualquier cosa que encontraremos en la nevera".</p>
 	</div>
 </section>
 
@@ -31,7 +31,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Tortilla de verduras de Àxel</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Una opción equilibrada y nutritiva para preparar.</p>
 				<ul class="actions">
 					<li><a href="receta1.html" class="button">¿Cómo se hace la tortilla?</a></li>
 				</ul>
