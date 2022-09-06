@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Servicios
-image: assets/images/pic01.jpg
+image: assets/images/Carla Antropometría.jpg
 nav-menu: true
 ---
 
