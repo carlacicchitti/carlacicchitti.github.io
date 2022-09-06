@@ -33,6 +33,7 @@ nav-menu: true
     <li><a href="#" class="button big">57 €</a></li>
 	  
 <div class="4u 12u$(medium)">
+	<ul class="actions vertical">
 		<h3>Pauta nutricional + 5 seguimientos</h3>
 		<p><p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
@@ -42,6 +43,7 @@ nav-menu: true
 		<li>5 visitas de seguimiento online.</li></p>
 		
     <li><a href="#" class="button special big">230 €</a></li>
+	</ul>
 	
 <div class="4u$ 12u$(medium)">
 		<h3>Pauta nutricional + 3 seguimientos</h3>
