@@ -24,16 +24,15 @@ show_tile: false
 			<li>CEM Vintró.</li>
 			<li>Artrodinàmic.</li>
 		</ul><p>
+		
+<p><span class="image image left"><img src="{% link assets/images/SAVE_20200807_230801.jpg %}" alt="" /></span></p>
 
 <h2 id="Mi historia">Mi historia</h2>
 
-He sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, deportivos.
-
-He dado 4 temporadas cursos online de nutricion deportiva.
-
-Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centros deportivos.
-
-He trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...
+<p>Estudié en Argentina pero deicidí homologar mi título en España luego de haberme encontrado perfeccionando mi Inglés en Londres. Opté por un Máster en Nutrición Deportiva en la Universidad de Barcelona ya que daba la posibilidad a realizar prácticas en el FCB. Quedé seleccionada para incorporarme al club con contrato de prácticas donde estuve trabajando durante seis meses.</p>
+<p>Una vez finalizado el máster decidí volver a mi país para continuar con un proyecto pendiente. Siendo asesora nutricional en una empresa destinada a la distribución de productos tenía como objetivo el de dar una nueva visión a la empresa de productos que deberían ser incorporados al mercado para lograr que las personas lograran adquirir una mayor variedad de productos saludables. Comenzó la pandemia por lo que decidí pasarla allí trabajando en este proyecto y con mi familia. En Argentina, las cosas iban muy bien en el ámbito laboral pero necesitaba un nuevo desafío y es por ello que volví a Europa para comenzar con nuevos proyectos...
+	
+<p>En cuanto a mi experiencia laboral, he sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, saludables, deportivos; he dado 4 temporadas cursos online de nutricion deportiva y he trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...Hoy en día mi objetivo es transmitir que llevar una alimentación saludable no es cosa de unos pocos, que si bien lo parece, el alimentarse equilibradamente y llevar una vida saludable es algo que todos podemos lograr siempre y cuando nos hayan enseñado de una manera asimiladora cómo es realmente la nutrición</p>
 
 
 
