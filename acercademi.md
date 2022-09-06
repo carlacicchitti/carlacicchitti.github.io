@@ -10,6 +10,28 @@ show_tile: false
 <p>Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace tiempo, y es por ello que intento transmitir que llevar una VIDA SALUDABLE con una alimentación equilibrada y entrenando es posible para todos, se trata de trabajar la confianza en uno mismo, dejar de lado ciclos repetitivos entre restricciones y excesos alimentarios, aprender a comer y moverte!. Una vez que entras en ritmo no quieres dejar ésta forma de vivir que te hará sentir bien, inclusive en emociones y pensamientos.<p/>
 <p>Por otro lado, me dedico a ayudar a deportistas a cumplir sus objetivos, ya sea modificar su composición corporal, mejorar su rendimiento deportivo o planificar la nutrición para competiciones. De acuerdo a las características individuales, tipo de deporte y calendario de entrenamientos planifico la ingesta de energía y nutrientes necesarios para el cumplimiento de su objetivo.<p/>
 <p>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Foto cv.jpeg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centro desportivos:</h3>
+				</header>
+				<p><li>Club de Natación Àtletic-Barceloneta.</li>
+				<li>Gimnasio Horta Deportiva.</li>
+				<li>CEM Vintró.</li>
+				<li>Artrodinàmic.</li>.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	
 <p><span class="image right"><img src="{% link assets/images/Foto cv.jpeg %}" alt="" /></span></p>
 	
