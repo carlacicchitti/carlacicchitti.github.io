@@ -28,18 +28,27 @@ nav-menu: true
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
-		<li>Resolución de dudas (email) durante duración de servicio.</li>
-		<li></li>
+		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
+		
     <li><a href="#" class="button big">57 €</a></li>
-	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Pauta nutricional + 3 seguimientos</h3>
+		<p><p><li>Cuestionario y valoración nutricional.</li>
+		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
+		<li>Incluye menú.</li>
+		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
+		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
+		
     <li><a href="#" class="button special big">Big</a></li>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p><p><p><li>Cuestionario y valoración nutricional.</li>
+		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
+		<li>Incluye menú.</li>
+		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
+		<li>Resolución de dudas (email) durante duración de servicio.</li></p>.
+		
     <li><a href="#" class="button big">Big</a></li>
 	</div>
 </div>
