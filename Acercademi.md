@@ -4,7 +4,7 @@ title: ¡Te cuento un poco sobre mí!
 description: Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo...
 image: assets/images/2 - Carla Cicchitti.jpeg
 nav-menu: true
-show_tile: false
+show_tile: true
 ---
 
 <p align="justify">Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace tiempo, y es por ello que intento transmitir que llevar una VIDA SALUDABLE con una alimentación equilibrada y entrenando es posible para todos, se trata de trabajar la confianza en uno mismo, dejar de lado ciclos repetitivos entre restricciones y excesos alimentarios, aprender a comer y moverte!. Una vez que entras en ritmo no quieres dejar ésta forma de vivir que te hará sentir bien, inclusive en emociones y pensamientos.<p/>
