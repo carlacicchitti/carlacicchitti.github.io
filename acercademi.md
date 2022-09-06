@@ -11,20 +11,11 @@ show_tile: false
 <p>Por otro lado, me dedico a ayudar a deportistas a cumplir sus objetivos, ya sea modificar su composición corporal, mejorar su rendimiento deportivo o planificar la nutrición para competiciones. De acuerdo a las características individuales, tipo de deporte y calendario de entrenamientos planifico la ingesta de energía y nutrientes necesarios para el cumplimiento de su objetivo.<p/>
 <p>
 	
-<span class="image fit"><img src="{% link assets/images/Foto cv.jpeg %}" alt="" /></span>
-	
-<p><span class="image right"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span><!-- Lists -->
+<p><span class="image right"><img src="{% link assets/images/Foto cv.jpeg %}" alt="" /></span><!-- Lists -->
 <div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centro desportivos:</h4>
-		<ul>
-			<li>Club de Natación Àtletic-Barceloneta.</li>
-			<li>Gimnasio Horta Deportiva.</li>
-			<li>CEM Vintró.</li>
-			<li>Artrodinàmic.</li>
-		</ul><p>
-		</p>
+	<div class="6u 12u$(small)"><h4>Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centro desportivos:</h4>
+		<ul><li>Club de Natación Àtletic-Barceloneta.</li><li>Gimnasio Horta Deportiva.</li><li>CEM Vintró.</li>
+			<li>Artrodinàmic.</li></ul><p></p>
 	
 <!-- Lists -->
 <div class="row">
