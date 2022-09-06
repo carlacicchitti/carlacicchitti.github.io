@@ -27,13 +27,11 @@ show_tile: false
 				<li>CEM Vintró.</li>
 				<li>Artrodinàmic.</li>.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Ver ubicación</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	
-<p><span class="image right"><img src="{% link assets/images/Foto cv.jpeg %}" alt="" /></span></p>
 	
 <!-- Lists -->
 <div class="row">
