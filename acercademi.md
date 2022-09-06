@@ -39,9 +39,8 @@ Ene - Sep 2019: Nutricionista deportivo en contrato de prácticas  (FCB)
 <!-- Table -->
 <h3>Table</h3>
 
-<h4>Formación</h4>
 <div class="table-wrapper">
-	<table>
+	<Formación>
 		<tbody>
 			<tr>
 				<td>Ene - Sep 2019</td>
@@ -60,7 +59,7 @@ Ene - Sep 2019: Nutricionista deportivo en contrato de prácticas  (FCB)
 			</tr>
 			<tr>
 				<td>2007 - 2016</td>
-				<td>Grado en Nutrición y Dietética (U. Maza) - Homologado a Grado de Dieista Nutricionista España.</td>
+				<td>Grado en Nutrición y Dietética - Homologado a Grado de Dietista Nutricionista España.</td>
 				<td>Universidad Maza</td> 
 
 		<tfoot>
