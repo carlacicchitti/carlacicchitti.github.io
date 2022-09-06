@@ -13,7 +13,7 @@ show_tile: false
 	
 <span class="image fit"><img src="{% link assets/images/Foto cv.jpeg %}" alt="" /></span>
 	
-<p><span class="Floatright"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span><!-- Lists -->
+<p><span class="image right"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span><!-- Lists -->
 <div class="row">
 	<div class="6u 12u$(small)">
 
