@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Servicios
+description: 'Las asesorías nutricionales dependerán de tu objetivos y características individuales como tu historial cínico, hábitos, preferencias, actividad física que realizas habitualmente.
+Si quieres mejorar hábitos, bajar de peso a partir de masa grasa, incrementar masa muscular o aprender a comer no dudes en contactarme.'
 image: assets/images/Carla Antropometría.jpg
 nav-menu: true
 ---
@@ -17,13 +19,16 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="asesorías online">Asesorías online</h2>
-<p>Las asesorías nutricionales dependerán de tu objetivos y características individuales como tu historial cínico, hábitos, preferencias, actividad física que realizas habitualmente.
-Si quieres mejorar hábitos, bajar de peso a partir de masa grasa, incrementar masa muscular o aprender a comer no dudes en contactarme.</p>
+<p>Para iniciar la asesoría online deberás enviar un correo electrónico marcando la opción que te interesa</p>
 
 <div class="row">
   <div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Mensual Online</h3>
+		<p></header>
+		<p><li>Club de Natación Àtletic-Barceloneta.</li>
+		<li>Gimnasio Horta Deportiva.</li>
+		<li>CEM Vintró.</li>
+		<li>Artrodinàmic.</li></p>.</p>
     <li><a href="#" class="button big">Big</a></li>
 	</div>
 	<div class="4u 12u$(medium)">
