@@ -1,7 +1,7 @@
 ---
 title: Recetas
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
