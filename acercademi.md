@@ -19,7 +19,7 @@ show_tile: false
 			<li>Club de Natación Àtletic-Barceloneta.</li>
 			<li>Gimnasio Horta Deportiva.</li>
 			<li>CEM Vintró.</li>
-			<Artrodinàmic.</li>
+			<li>Artrodinàmic.</li>
 		</ul><p>
 
 <h2 id="Mi historia">Mi historia</h2>
