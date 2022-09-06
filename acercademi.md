@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Acerca de mí
-description: Lorem ipsum dolor est
+title: ¡Te cuento un poco sobre mí!
+description: Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo...
 image: assets/images/2 - Carla Cicchitti.jpeg
 nav-menu: true
 show_tile: true
