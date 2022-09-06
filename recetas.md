@@ -1,8 +1,8 @@
 ---
 title: Recetas
 layout: landing
-description: 'Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo.'
-image: assets/images/pic07.jpg
+description: 'En esta sección podrás encontrar todas las recetas que iré subiendo, opciones dulces, saladas, saludables o deportivas.
+image: assets/images/IMG_20210616_152253709(1).jpg
 nav-menu: true
 ---
 
@@ -13,10 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Consejo</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>A veces creemos que para llevar una alimentación saludable debemos dejar una buena suma de dinero al mes o cocinar de manera que tenemos que obtener nuestro título de chef, "recetas gourmet". Es por ello que he decidido crear esta sección donde iré colgando algunas recetas que pueden ayudarte a tener ideas cuando te preguntas "¿qué hago para comer?.</p>
+		<p>Te recomiendo que antes de llevar a cabo cualquier receta te organices y planifiques tu semana, y hagas una "buena compra" con todo aquello que utilizarás. Ten en cuenta que cuando no planificamos previamente nos encontraremos consumiendo "cualquier cosa que encontraremos en la nevera"</p>
 	</div>
 </section>
 
