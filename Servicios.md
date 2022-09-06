@@ -24,12 +24,13 @@ nav-menu: true
 <div class="row">
   <div class="4u 12u$(medium)">
 		<h3>Mensual Online</h3>
-		<p></header>
-		<p><li>Club de Natación Àtletic-Barceloneta.</li>
-		<li>Gimnasio Horta Deportiva.</li>
-		<li>CEM Vintró.</li>
-		<li>Artrodinàmic.</li></p>.</p>
-    <li><a href="#" class="button big">Big</a></li>
+		<p><li>Cuestionario y valoración nutricional.</li>
+		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
+		<li>Incluye menú.</li>
+		<li>Asesoramiento sobre suplementación (de ser necesario).</li></p>.</p>
+		<li>Resolución de dudas (email) durante duración de servicio.</li></p>.</p>
+		<li>.</li></p>.</p>
+    <li><a href="#" class="button big">57 €</a></li>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Faucibus consequat lorem</h3>
