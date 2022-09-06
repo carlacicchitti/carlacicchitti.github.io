@@ -33,24 +33,26 @@ nav-menu: true
     <li><a href="#" class="button big">57 €</a></li>
 	  
 <div class="4u 12u$(medium)">
-		<h3>Pauta nutricional + 3 seguimientos</h3>
+		<h3>Pauta nutricional + 5 seguimientos</h3>
 		<p><p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
-		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
+		<li>Resolución de dudas (email) durante duración de servicio.</li>
+		<li>5 visitas de seguimiento online.</li></p>
 		
-    <li><a href="#" class="button special big">Big</a></li>
+    <li><a href="#" class="button special big">230 €</a></li>
 	
 <div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
+		<h3>Pauta nutricional + 3 seguimientos</h3>
 		<p><p><p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
-		<li>Resolución de dudas (email) durante duración de servicio.</li></p>.
+		<li>Resolución de dudas (email) durante duración de servicio.</li>
+		<li>5 visitas de seguimiento online.</li></p>
 		
-    <li><a href="#" class="button big">Big</a></li>
+    <li><a href="#" class="button big">150</a></li>
 	
 </div>
     
