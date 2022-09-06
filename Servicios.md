@@ -29,7 +29,6 @@ nav-menu: true
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
-	</div>
 	<li><a href="#" class="button big">57 €</a></li>
 		
 	  
@@ -41,7 +40,6 @@ nav-menu: true
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
-	</div>
     	<li><a href="#" class="button special big">230 €</a></li>
 
 	<div class="4u$ 12u$(medium)">
@@ -52,7 +50,6 @@ nav-menu: true
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
-	</div>
 	<li><a href="#" class="button big">150</a></li>
 
  
