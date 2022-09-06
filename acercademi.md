@@ -13,6 +13,19 @@ show_tile: false
 	
 <span class="image fit"><img src="{% link assets/images/Foto cv.jpeg %}" alt="" /></span>
 	
+<p><span class="Floatright"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span><!-- Lists -->
+<div class="row">
+	<div class="6u 12u$(small)">
+
+		<h4>Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centro desportivos:</h4>
+		<ul>
+			<li>Club de Natación Àtletic-Barceloneta.</li>
+			<li>Gimnasio Horta Deportiva.</li>
+			<li>CEM Vintró.</li>
+			<li>Artrodinàmic.</li>
+		</ul><p>
+		</p>
+	
 <!-- Lists -->
 <div class="row">
 	<div class="6u 12u$(small)">
