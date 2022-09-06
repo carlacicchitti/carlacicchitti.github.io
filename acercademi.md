@@ -9,13 +9,13 @@ show_tile: false
 
 Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo.
 
-<h2 id="Mi historia">Mi historia</h2>
-
 Actualmente mi objetivo es transmitir a las personas que llevar una alimentación equilibrada no es cosa de unos pocos, que todos podemos llevar una vida saludable, la CLAVE es aprender a elegir que nos permitan comer de todo sin pasar a generar ciclos repetitivos entre restricciones y excesos de alimentos.
 
 Por otro lado, me dedico a ayudar a deportistas a cumplir sus objetivos, ya sea modificar su composición corporal, mejorar su rendimiento deportivo o planificar nutrición para competiciones.
 
 Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centros deportivos.
+
+<h2 id="Mi historia">Mi historia</h2>
 
 He sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, deportivos.
 
@@ -25,15 +25,6 @@ Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centros depo
 
 He trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...
 
-<h2 id="Formación">Formación</h2>
-
-Ene - Sep 2019: Nutricionista deportivo en contrato de prácticas  (FCB)
-
-2018 - 2019: Máster en Nutrición en Actividad Física y Deporte (UB)
-
-2017- 2018: Licenciatura en nutrición
-
-2007 - 2016: Grado en Nutrición y Dietética (U. Maza) - Homologado a Grado de Dieista Nutricionista España
 
 
 <!-- Formación -->
