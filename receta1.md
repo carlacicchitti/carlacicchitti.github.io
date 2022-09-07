@@ -1,13 +1,32 @@
 ---
 layout: post
 title: Generic
-description: Lorem ipsum dolor est
+description: Tortilla Àxel
 image: assets/images/IMG_20220522_220217600.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Ingredientes:
+<p><li>Club de Natación Àtletic-Barceloneta.</li>
+				<li>2 cebollas.</li>
+				<li>1 calabacín.</li>
+				<li>1 berenjena.</li>
+        <li>1 boniato.</li>
+        <li>6 huevos.</li>
+        <li>pimienta.</li>
+        <li>AOVE.</li></p>
+        
+<p>Cortar la cebolla en juliana, berenjena y boniato en cubitos.
+Colocar un ajo picado en AOVE  a fuego fuerte. Añadir el boniato y cocinar durante 3 a 5 minutos. 
+Añadir la berenjena cortada en cubitos y remover.  Luego añadir la cebolla.  Condimentar  (pimienta).</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<p>Mientras los vegetales se están pochando, cortar el calabacín en cubitos y añadir con el resto de vegetales.</p>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<p>Mientras removemos, batir los huevos en un bol y añadir una pizca de sal. Cuando los vegetales estén listos, verterlos dentro del bol y mezclar.
+Verter nuevamente en la sartén. Con una cuchara revisar cuando está lista.</p>
+
+<p>Una vez lista, colocar un plato o superficie plana  que tape toda la sartén ("TOMBA TRUITAS") y dar la vuelta y colocar nuevamente en sartén.</p>
+
+<p>Repetir el proceso  hasta que la tortilla esté lista.</p>
+
+<p>Tip: si el fuego está más fuerte pero vas con cuidado para que no se queme puedes conseguir que la tortilla quede como un "Coulant", ¿te atreves?.</p>
