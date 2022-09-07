@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ¡Te cuento un poco sobre mí!
+title: ¡Te cuento un poco sobre mí! 
 description: 'Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo...'
-image: assets/images/Foto cv.jpeg
+image: assets/images/fotoperfil.jpg
 nav-menu: true
 ---
 
