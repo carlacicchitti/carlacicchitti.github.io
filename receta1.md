@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Generic
-description: Tortilla Àxel
+title: Tortilla Àxel
+description: Ésta receta prodrás prepararla en 50 minutos aproximadamente.
 image: assets/images/IMG_20220522_220217600.jpg
 nav-menu: true
 ---
 
 Ingredientes:
-<p><li>Club de Natación Àtletic-Barceloneta.</li>
-				<li>2 cebollas.</li>
-				<li>1 calabacín.</li>
-				<li>1 berenjena.</li>
+
+	<p><li><a href="#" class="icon fa-download">2 cebollas</a></li>
+	<li>2 cebollas.</li>
+	<li>1 calabacín.</li>
+	<li>1 berenjena.</li>
         <li>1 boniato.</li>
         <li>6 huevos.</li>
         <li>pimienta.</li>
