@@ -15,8 +15,8 @@ nav-menu: true
 		<header class="major">
 			<h2>Consejo</h2>
 		</header>
-		<p> A veces creemos que para llevar una alimentación saludable debemos dejar una buena suma de dinero al mes o cocinar de manera que tenemos que obtener nuestro título de chef, "recetas gourmet". Es por ello que he decidido crear esta sección donde iré colgando algunas recetas que pueden ayudarte a tener ideas cuando te preguntas "¿qué hago para comer?.</p>
-		<p>Te recomiendo que antes de llevar a cabo cualquier receta te organices y planifiques tu semana, y hagas una "buena compra" con todo aquello que utilizarás. Ten en cuenta que cuando no planificamos previamente nos encontraremos consumiendo "cualquier cosa que encontraremos en la nevera".</p>
+		<p align="justify"> A veces creemos que para llevar una alimentación saludable debemos dejar una buena suma de dinero al mes o cocinar de manera que tenemos que obtener nuestro título de chef, "recetas gourmet". Es por ello que he decidido crear esta sección donde iré colgando algunas recetas que pueden ayudarte a tener ideas cuando te preguntas "¿qué hago para comer?.</p>
+		<p align="justify">Te recomiendo que antes de llevar a cabo cualquier receta te organices y planifiques tu semana, y hagas una "buena compra" con todo aquello que utilizarás. Ten en cuenta que cuando no planificamos previamente nos encontraremos consumiendo "cualquier cosa que encontraremos en la nevera".</p>
 	</div>
 </section>
 
