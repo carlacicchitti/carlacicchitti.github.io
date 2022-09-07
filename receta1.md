@@ -6,6 +6,26 @@ image: assets/images/IMG_20220522_220217600.jpg
 nav-menu: true
 ---
 
+<!-- Two -->
+<section id="one" class="spotlights">
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ingredientes:</h3>
+				</header>
+				<p><li>2 cebollas.</li>
+				<li>1 berenjena.</li>
+				<li>1 boniato.</li>
+        			<li>6 huevos.</li>
+        			<li>pimienta.</li>
+        			<li>AOVE.</li></p>
+				
+			</div>
+		</div>
+	</section>
+	
+<section>
 Ingredientes:
 				
 		<p><li><2 cebollas.checked</li>
