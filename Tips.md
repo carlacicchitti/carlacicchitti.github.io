@@ -1,6 +1,6 @@
 ---
 title: Tips y temas
-layout: landing
+layout: page
 description: 'En esta sección podrás encontrar contenido relacionado a preguntas habituales que surgen en asesorías nutricionales.'
 image: assets/images/Carla Antropometría.jpg
 nav-menu: true
