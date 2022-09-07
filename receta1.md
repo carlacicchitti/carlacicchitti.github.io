@@ -6,15 +6,24 @@ image: assets/images/IMG_20220522_220217600.jpg
 nav-menu: true
 ---
 
-Ingredientes:
 
-	<p><li><2 cebollas.checked</li>
-	<li>1 calabacín.</li>
-	<li>1 berenjena.</li>
-        <li>1 boniato.</li>
-        <li>6 huevos.</li>
-        <li>pimienta.</li>
-        <li>AOVE.</li></p>
+
+</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ingredientes:</h3>
+				</header>
+				<p><li><2 cebollas.checked</li>
+				<li>1 calabacín.</li>
+				<li>1 berenjena.</li>
+        			<li>1 boniato.</li>
+        			<li>6 huevos.</li>
+        			<li>pimienta.</li>
+        			<li>AOVE.</li></p>
+			</div>
+		</div>
+	</section>
         
 <p>Cortar la cebolla en juliana, berenjena y boniato en cubitos.
 Colocar un ajo picado en AOVE  a fuego fuerte. Añadir el boniato y cocinar durante 3 a 5 minutos. 
