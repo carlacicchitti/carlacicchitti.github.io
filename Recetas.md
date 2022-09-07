@@ -23,7 +23,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="receta1.md" class="image">
+		<a href="receta1.html" class="image">
 			<img src="{% link assets/images/IMG_20220522_220217600.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -33,7 +33,7 @@ nav-menu: true
 				</header>
 				<p>Una opción equilibrada y nutritiva para preparar.</p>
 				<ul class="actions">
-					<li><a href="receta1.md" class="button">¿Cómo preparar?</a></li>
+					<li><a href="receta1.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
 			</div>
 		</div>
