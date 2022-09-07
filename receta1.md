@@ -8,8 +8,7 @@ nav-menu: true
 
 Ingredientes:
 
-	<p><li><a href="#" class="icon fa-download">2 cebollas</a></li>
-	<li>2 cebollas.</li>
+	<p><li><2 cebollas.checked</li>
 	<li>1 calabacín.</li>
 	<li>1 berenjena.</li>
         <li>1 boniato.</li>
