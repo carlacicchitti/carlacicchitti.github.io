@@ -29,7 +29,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Trotilla de Verduras de Àxel</h3>
+					<h3>Tortilla Àxel</h3>
 				</header>
 				<p>Una opción equilibrada y nutritiva para preparar.</p>
 				<ul class="actions">
@@ -47,7 +47,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Wok de verduras y quinoa</h3>
 				</header>
-				<p>Ésta es una receta vegetariana.</p>
+				<p>Ésta es una receta vegetariana, completa y equilibrada.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
@@ -65,7 +65,7 @@ nav-menu: true
 				</header>
 				<p>Opción fresca, ideal para consumir en días de calor.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">¿Cómo preparar?</a></li>
+					<li><a href="generic.html" class="button">Ingredientes</a></li>
 				</ul>
 			</div>
 		</div>
