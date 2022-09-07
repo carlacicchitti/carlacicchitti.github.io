@@ -56,14 +56,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/merienda.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Ensalada de cuscús</h3>
+					<h3>Merienda saludable</h3>
 				</header>
-				<p>Opción vegetariana fresca, ideal para consumir en días de calor.</p>
+				<p>Opción fresca, ideal para consumir en días de calor.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
