@@ -39,7 +39,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="receta2.html" class="image">
 			<img src="{% link assets/images/trashed-1664538195-IMG_20210701_175512934.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>Ésta es una receta vegetariana, completa y equilibrada.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">¿Cómo preparar?</a></li>
+					<li><a href="receta2.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
 			</div>
 		</div>
@@ -63,10 +63,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Merienda saludable</h3>
 				</header>
-				<p>Opción fresca, ideal para consumir en días de calor.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Ingredientes</a></li>
-				</ul>
+				<p>Yogurt natural sin azúcares añadidos, frutos rojos, semillas, avena.</p>
+				
 			</div>
 		</div>
 	</section>
