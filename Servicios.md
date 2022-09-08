@@ -31,7 +31,7 @@ nav-menu: true
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
 		<p></p>
-		<a href="#" class="button big">57 €</a>
+		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">57 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Pauta nutricional + 5 seguimientos</h3>
@@ -42,7 +42,7 @@ nav-menu: true
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
 		<p></p>
-    		<a href="#" class="button special big">230 €</a>
+    		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">230 €</a>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Pauta nutricional + 3 seguimientos</h3>
@@ -53,7 +53,7 @@ nav-menu: true
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
 		<p></p>
-		<a href="#" class="button big">150</a>
+		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">150</a>
 	</div>
 
  
