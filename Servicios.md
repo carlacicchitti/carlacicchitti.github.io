@@ -18,6 +18,11 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+		
+<!-- EasyWeek Appointment Widget: https://easyweek.io/ -->
+<script src="https://widget.easyweek.io/widget.js"></script>
+<script>var ewWidget = new EasyWeekWidget({url: 'https://widget.easyweek.io/carla-cicchitti-nutricion-deportiva', button: { text: 'Online appointment', showText: true, color: '#ffffff', background: '#36ab48', textColor: '#383868', textBackground: '#ffffff' }})</script>
+		
 <h2 id="asesorías online">Asesorías online</h2>
 <p>Para iniciar la asesoría online deberás enviar un correo electrónico marcando la opción que te interesa</p>
 
