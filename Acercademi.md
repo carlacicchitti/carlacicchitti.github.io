@@ -19,7 +19,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centro desportivos:</h3>
+					<h3>Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centro deportivos:</h3>
 				</header>
 				<p><li>Club de Natación Àtletic-Barceloneta.</li>
 				<li>Gimnasio Horta Deportiva.</li>
@@ -50,7 +50,7 @@ nav-menu: true
 	</section>
 
 	<section>
-				<div class=="content">
+				
 					<div class="inner">
 <p align="justify">En cuanto a mi experiencia laboral, he sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, saludables, deportivos; he dado 4 temporadas cursos online de nutricion deportiva y he trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...Hoy en día mi objetivo es transmitir que llevar una alimentación saludable no es cosa de unos pocos, que si bien lo parece, el alimentarse equilibradamente y llevar una vida saludable es algo que todos podemos lograr siempre y cuando nos hayan enseñado de una manera asimiladora cómo es realmente la nutrición.</p>
 					
