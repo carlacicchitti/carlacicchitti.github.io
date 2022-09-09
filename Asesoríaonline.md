@@ -16,4 +16,6 @@ show_tile: false
         <li>Completa los datos requeridos y haz click en botón "reservar".</li>
         
         
-        <p><li>Te llegará un correo electrónico con un cuestionario que deberás completar</li></p>
+        <p><li>Te llegará un correo electrónico con un cuestionario que deberás completar</li>
+	<li>No abonarás el plan, hasta haber realizado la primer visita online</li>
+	<li>Las visitas online se llevan a cabo mediante googlemet</li></p>
