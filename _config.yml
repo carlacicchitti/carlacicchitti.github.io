@@ -8,10 +8,9 @@ url: # the base hostname & protocol for your site
 author:
 street_address: null
 city: Barcelona
-state: CAT
+state: null
 zip_code: null
 country: ES
-phone: null
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
