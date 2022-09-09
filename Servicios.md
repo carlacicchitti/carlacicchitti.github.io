@@ -20,7 +20,8 @@ nav-menu: true
 <!-- Content -->
 				
 <h2 id="asesorías online">Asesorías online</h2>
-<p>Para iniciar la asesoría online selecciona el </p>
+<p>¿Cómo se llevan a cabo las asesorías online? </p>
+<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">Información</a>
 
 <div class="row">
   	<div class="4u 12u$(medium)">
