@@ -31,6 +31,10 @@ nav-menu: true
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
 		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
+		<p></p>
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">57 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
