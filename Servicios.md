@@ -80,7 +80,7 @@ nav-menu: true
 	</div>
 	<div class="3u 12u$(medium)">
 		<h3>Gimnasio Horta Deportiva</h3>
-		<p>Haxelia.</p>
+		<p>HAXELIA.</p>
 		<div class="mapouter"><div class="gmap_canvas"><iframe width="209" height="140" id="gmap_canvas" src="https://maps.google.com/maps?q=Gimnasio%20Horta%20Deportiva&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:140px;width:209px;}</style><a href="https://www.embedgooglemap.net">embed map in website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:140px;width:209px;}</style></div></div>
 		<p></p>
 	</div>
