@@ -20,7 +20,7 @@ nav-menu: true
 <!-- Content -->
 				
 <h2 id="asesorías online">Asesorías online</h2>
-<p>Para iniciar la asesoría online deberás enviar un correo electrónico marcando la opción que te interesa</p>
+<p>Para iniciar la asesoría online selecciona el </p>
 
 <div class="row">
   	<div class="4u 12u$(medium)">
@@ -35,28 +35,28 @@ nav-menu: true
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">57 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Pauta nutricional (1ra + 2da visita) <br /> + 5 seguimientos</h3>
+		<h3>Pauta nutricional (1ra + 2da) <br /> + 5 seguimientos</h3>
 		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
-		<p></p>
+		<p>  <br /> </p>
     		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">230 €</a>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Pauta nutricional (1ra + 2da visita) <br /> + 3 seguimientos</h3>
+		<h3>Pauta nutricional (1ra + 2da) <br /> + 3 seguimientos</h3>
 		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
-		<li>5 visitas de seguimiento online.</li></p>
+		<li>3 visitas de seguimiento online.</li></p>
 		<p></p>
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">150 €</a>
 	</div>
-
+<pre>
  
 <!-- Content -->
 	
