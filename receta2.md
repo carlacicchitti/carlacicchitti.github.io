@@ -3,7 +3,8 @@ layout: post
 title: Wok de verduras y quinoa
 description: Ésta receta prodrás prepararla en 50 minutos aproximadamente.
 image: assets/images/trashed-1664538195-IMG_20210701_175512934.jpg
-nav-menu: true
+nav-menu: false
+show_tile: false
 ---
 
 Ingredientes:
