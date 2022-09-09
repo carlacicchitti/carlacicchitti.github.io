@@ -56,7 +56,6 @@ nav-menu: true
 		<p></p>
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">150 €</a>
 	</div>
-<pre>
  
 <!-- Content -->
 	
