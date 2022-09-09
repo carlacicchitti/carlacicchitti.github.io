@@ -59,7 +59,8 @@ nav-menu: true
 	</div>
  
 <!-- Content -->
-	
+<p> </p>
+<p></p>
 <h2 id="content">Asesorías presenciales</h2>
 <a id="mapas"></a> 
 <p>Para solicitar una asesoría presencial contacta con el centro/club más cercano o que se adapte a tus necesidades.</p>
