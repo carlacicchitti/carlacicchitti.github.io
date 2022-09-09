@@ -21,7 +21,7 @@ nav-menu: true
 				
 <h2 id="asesorías online">Asesorías online</h2>
 <p>¿Cómo se llevan a cabo las asesorías online? </p>
-<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">Información</a>
+<a href="Asesoríaonline.html" class="button big">Información</a>
 
 <div class="row">
   	<div class="4u 12u$(medium)">
