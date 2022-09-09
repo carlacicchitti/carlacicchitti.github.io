@@ -24,7 +24,7 @@ nav-menu: true
 
 <div class="row">
   	<div class="4u 12u$(medium)">
-		<h3>Mensual Online</h3>
+		<h3>Mensual Online             </h3>
 		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
