@@ -24,7 +24,7 @@ nav-menu: true
 
 <div class="row">
   	<div class="4u 12u$(medium)">
-		<h3>Mensual Online <br /> </h3>
+		<h3>Mensual Online <br />       </h3>
 		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
@@ -54,11 +54,12 @@ nav-menu: true
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
 		<p></p>
-		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">150</a>
+		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">150 €</a>
 	</div>
 
  
 <!-- Content -->
+	
 <h2 id="content">Asesorías presenciales</h2>
 <p>Para solicitar una asesoría presencial contacta con el centro/club más cercano o que se adapte a tus necesidades.</p>
 
@@ -71,7 +72,7 @@ nav-menu: true
 		<p></p>
 	</div>
 	<div class="3u 12u$(medium)">
-		<h3>CEM Vintró - ASME  </h3>
+		<h3>CEM Vintró <br /> - ASME  </h3>
 		<p></p>
 		<p>SPAIVIU.</p>
 		<div class="mapouter"><div class="gmap_canvas"><iframe width="209" height="140" id="gmap_canvas" src="https://maps.google.com/maps?q=cem%20vintr%C3%B3&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:140px;width:209px;}</style><a href="https://www.embedgooglemap.net">embed map in website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:140px;width:209px;}</style></div></div>
