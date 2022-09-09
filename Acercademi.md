@@ -26,7 +26,7 @@ nav-menu: true
 				<li>CEM Vintró.</li>
 				<li>Artrodinàmic.</li></p>
 				<ul class="actions">
-					<li><a href="Servicios.html" class="button">Ver ubicación</a></li>
+					<li><a href="Servicios.html#mapas" class="button">Ver ubicación</a></li>
 				</ul>
 			</div>
 		</div>
