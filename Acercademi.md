@@ -45,12 +45,13 @@ nav-menu: true
 <p align="justify">Una vez finalizado el máster decidí volver a mi país para continuar con un proyecto pendiente. Siendo asesora nutricional en una empresa destinada a la distribución de productos tenía como objetivo el de dar una nueva visión a la empresa de productos que deberían ser incorporados al mercado para lograr que las personas lograran adquirir una mayor variedad de productos saludables. Comenzó la pandemia por lo que decidí pasarla allí trabajando en este proyecto y con mi familia. En Argentina, las cosas iban muy bien en el ámbito laboral pero necesitaba un nuevo desafío y es por ello que volví a Europa para comenzar con nuevos proyectos....</p>
 <p>      </p>
 <p>      </p>
-<p align="center">En cuanto a mi experiencia laboral, he sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, saludables, deportivos; he dado 4 temporadas cursos online de nutricion deportiva y he trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...Hoy en día mi objetivo es transmitir que llevar una alimentación saludable no es cosa de unos pocos, que si bien lo parece, el alimentarse equilibradamente y llevar una vida saludable es algo que todos podemos lograr siempre y cuando nos hayan enseñado de una manera asimiladora cómo es realmente la nutrición.</p>
 			</div>
 		</div>
 	</section>
 
 
+<p align="justify">En cuanto a mi experiencia laboral, he sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, saludables, deportivos; he dado 4 temporadas cursos online de nutricion deportiva y he trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...Hoy en día mi objetivo es transmitir que llevar una alimentación saludable no es cosa de unos pocos, que si bien lo parece, el alimentarse equilibradamente y llevar una vida saludable es algo que todos podemos lograr siempre y cuando nos hayan enseñado de una manera asimiladora cómo es realmente la nutrición.</p>
+	
 
 <!-- Formación -->
 <h3>Formación</h3>
