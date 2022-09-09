@@ -30,7 +30,9 @@ nav-menu: true
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
-		<p></p>
+		<p>  </p>
+		<p>  </p>
+		<p>  </p>
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">57 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -83,7 +85,7 @@ nav-menu: true
 		<p></p>
 	</div>
 	<div class="3u$ 12u$(medium)">
-		<h3>Centro de Fisioterapia</h3>
+		<h3>Centro <br /> de Fisioterapia</h3>
 		<p>ARTRODINÀMIC.</p>
 		<div class="mapouter"><div class="gmap_canvas"><iframe width="209" height="140" id="gmap_canvas" src="https://maps.google.com/maps?q=ARTRODIN%C3%80MIC&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:140px;width:209px;}</style><a href="https://www.embedgooglemap.net">embed map in website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:140px;width:209px;}</style></div></div>
 		<p></p>
