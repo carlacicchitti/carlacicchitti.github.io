@@ -32,9 +32,6 @@ nav-menu: true
 		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
 		<p></p>
 		<p></p>
-		<p></p>
-		<p></p>
-		<p></p>
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">57 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -74,7 +71,7 @@ nav-menu: true
 		<p></p>
 	</div>
 	<div class="3u 12u$(medium)">
-		<h3>CEM Vintró</h3>
+		<h3>CEM Vintró - ASME  </h3>
 		<p></p>
 		<p>SPAIVIU.</p>
 		<div class="mapouter"><div class="gmap_canvas"><iframe width="209" height="140" id="gmap_canvas" src="https://maps.google.com/maps?q=cem%20vintr%C3%B3&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:140px;width:209px;}</style><a href="https://www.embedgooglemap.net">embed map in website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:140px;width:209px;}</style></div></div>
