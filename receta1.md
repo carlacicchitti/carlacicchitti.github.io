@@ -25,6 +25,12 @@ show_tile: false
 			</div>
 		</div>
 	</section>
+
+<br />
+<br />
+<p> </p>
+<p> </p>
+
 <header class="major">
 	<h3>Preparación</h3>
 </header>
