@@ -3,8 +3,8 @@ title: Recetas
 layout: landing
 description: 'En esta sección podrás encontrar todas las recetas que iré subiendo <br /> opciones dulces, saladas, saludables o deportivas.'
 image: assets/images/muffins.jpg 
-nav-menu: false
-show_tile: false
+nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
