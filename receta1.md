@@ -24,10 +24,6 @@ show_tile: false
 				
 			</div>
 		</div>
-	</section>
-	
-<section>
-
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -46,10 +42,9 @@ Verter nuevamente en la sartén. Con una cuchara revisar cuando está lista.</p>
 
 <p align="justify">Repetir el proceso  hasta que la tortilla esté lista.</p>
 
-<p align="justify">Tip: si el fuego está más fuerte pero vas con cuidado para que no se queme puedes conseguir que la tortilla quede como un "Coulant", ¿te atreves?.</p>
-				
+<p align="justify">Tip: si el fuego está más fuerte pero vas con cuidado para que no se queme puedes conseguir que la tortilla quede como un "Coulant", ¿te atreves?.</p>		
 			</div>
 		</div>
 	</section>
-
+</section>
 
