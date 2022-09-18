@@ -22,10 +22,12 @@ nav-menu: true
 <h2 id="asesorías online">Asesorías online</h2>
 <p>¿Cómo se llevan a cabo las asesorías online? </p>
 <a href="Asesoríaonline.html" class="button big">Información</a>
+		
+<br />
 
 <div class="row">
   	<div class="4u 12u$(medium)">
-		<h3>Mensual Online</h3> <h4>(1ra y 2da visita)      </h4>
+		<h3>Visita Mensual Online</h3> <h4>(1ra y 2da visita)      </h4>
 		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
@@ -38,7 +40,7 @@ nav-menu: true
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">57 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Visita nutricional</h3> <h4> (1ra + 2da) + 5 seguimientos</h4>
+		<h3>Pack Nutricional Online</h3> <h4> (1ra + 2da) + 5 seguimientos</h4>
 		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
@@ -50,7 +52,7 @@ nav-menu: true
     		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">230 €</a>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Visita nutricional</h3> <h4>(1ra + 2da) + 3 seguimientos</h4>
+		<h3>Pack Nutricional Online</h3> <h4>(1ra + 2da) + 3 seguimientos</h4>
 		<p><li>Cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
