@@ -24,6 +24,9 @@ nav-menu: true
 <a href="Asesoríaonline.html" class="button big">Información</a>
 		
 <br />
+<br />
+<p> </p>
+<p> </p>
 
 <div class="row">
   	<div class="4u 12u$(medium)">
