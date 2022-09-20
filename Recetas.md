@@ -56,6 +56,22 @@ show_tile: true
 		</div>
 	</section>
 	<section>
+		<a href="receta3.html" class="image">
+			<img src="{% link assets/images/trashed-1664538195-IMG_20210701_175512934.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Gazpacho</h3>
+				</header>
+				<p>Opción ideal para días de calor.</p>
+				<ul class="actions">
+					<li><a href="receta3.html" class="button">¿Cómo preparar?</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/merienda.jpg %}" alt="" data-position="25% 25%" />
 		</a>
