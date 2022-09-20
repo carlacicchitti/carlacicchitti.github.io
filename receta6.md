@@ -36,7 +36,7 @@ show_tile: false
 	<h3>Preparación</h3>
 </header>
 <p align="justify">Colocar una cacerola con agua a calentar. Cuando
-comienza a hervir, añadir el cus cús.</p>
+comienza a hervir, añadir el cuscús.</p>
 
 <p align="justify">Cuando comienza a hervir, añadir el cus cús y
 dejamos cocinar 10 minutos.</p>
