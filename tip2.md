@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Dieta vs. alimentación equilibrada
+description: null
+image: assets/images/massanomasrico.jpg
 nav-menu: false
 show_tile: false
 ---
