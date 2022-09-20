@@ -15,12 +15,12 @@ show_tile: false
 				<header class="major">
 					<h3>Ingredientes:</h3>
 				</header>
-				<p><li>2 cebollas.</li>
-				<li>1 calabacín.</li>
-				<li>1 berenjena.</li>
-        			<li>1 zanahoria.</li>
-        			<li>4 supremas de pollo.</li>
-        			<li>perejil, pimienta, AOVE.</li></p>
+				<p><li>2 cebollas</li>
+				<li>1 calabacín</li>
+				<li>1 berenjena</li>
+        			<li>1 zanahoria</li>
+        			<li>4 supremas de pollo</li>
+        			<li>perejil, pimienta, AOVE</li></p>
 				
 			</div>
 		</div>
