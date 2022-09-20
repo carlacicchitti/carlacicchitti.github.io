@@ -2,7 +2,7 @@
 layout: post
 title: Garbanzos con verduras salteadas
 description: Ésta receta prodrás prepararla en 45 minutos aproximadamente.
-image: assets/images/IMG_20220522_220217600.jpg
+image: assets/images/garbanzosconverduras.JPG
 nav-menu: false
 show_tile: false
 ---
