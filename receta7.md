@@ -2,7 +2,7 @@
 layout: post
 title: Bacalao con pimientos
 description: Ésta receta prodrás prepararla en 50 minutos aproximadamente.
-image: assets/images/IMG_20220522_220217600.jpg
+image: assets/images/bacalao.jpg
 nav-menu: false
 show_tile: false
 ---
