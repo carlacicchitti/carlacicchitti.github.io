@@ -25,7 +25,7 @@ show_tile: false
         			<li>zumo de limón</li>
         			<li>2 tomates</li>
 				<li>2 aguacates pequeños</li>
-        			<li>4 cdas de AOVE.</li></p>
+        			<li>4 cdas de AOVE</li></p>
 				
 			</div>
 		</div>
