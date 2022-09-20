@@ -63,7 +63,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Suplementación deportiva</h3>
 				</header>
-				<p>Es utilizada en deporte, generalmente, para cubrir las demandas incrementadas que éste conlleva.</p>
+				<p>Es utilizada en deporte, generalmente, para cubrir las demandas incrementadas que éste con lleva.</p>
 				<ul class="actions">
 					<li><a href="tip3.html" class="button">Learn more</a></li>
 				</ul>
