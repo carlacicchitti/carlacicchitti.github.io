@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tortilla Àxel
-description: Ésta receta prodrás prepararla en 50 minutos aproximadamente.
+title: Hummus de remolacha
+description: Ésta receta prodrás prepararla en 25 minutos aproximadamente.
 image: assets/images/IMG_20220522_220217600.jpg
 nav-menu: false
 show_tile: false
@@ -15,12 +15,12 @@ show_tile: false
 				<header class="major">
 					<h3>Ingredientes:</h3>
 				</header>
-				<p><li>2 cebollas.</li>
-				<li>1 berenjena.</li>
-				<li>1 boniato.</li>
-        			<li>6 huevos.</li>
-        			<li>pimienta.</li>
-        			<li>AOVE.</li></p>
+				<p><li>1 bote de garbanzos</li>
+				<li>1 remolacha cocida</li>
+				<li>1 cda de Tahini (pasta de semillas de sésamo)</li>
+        			<li>zumo de 1 limón</li>
+        			<li>especias a gusto (comino, pimentón, pimienta) y una pizca de sal</li>
+        			<li>2 cdas soperas de AOVE.</li></p>
 				
 			</div>
 		</div>
@@ -34,19 +34,18 @@ show_tile: false
 <header class="major">
 	<h3>Preparación</h3>
 </header>
-<p align="justify">Cortar la cebolla en juliana, berenjena y boniato en cubitos.
-Colocar un ajo picado en AOVE  a fuego fuerte. Añadir el boniato y cocinar durante 3 a 5 minutos. 
-Añadir la berenjena cortada en cubitos y remover.  Luego añadir la cebolla.  Condimentar  (pimienta).</p>
+<p align="justify">Colar los garbanzos y lavar bien debajo del grifo
+con agua.</p>
 
-<p align="justify">Mientras los vegetales se están pochando, cortar el calabacín en cubitos y añadir con el resto de vegetales.</p>
+<p align="justify">Colocar en el vaso de la Thermomix los
+garbanzos, el zumo de 1 limón, 2 cdas de AOVE y 1
+remolacha cortada en cubitos.</p>
 
-<p align="justify">Mientras removemos, batir los huevos en un bol y añadir una pizca de sal. Cuando los vegetales estén listos, verterlos dentro del bol y mezclar.
-Verter nuevamente en la sartén. Con una cuchara revisar cuando está lista.</p>
+<p align="justify">Salpimentar y condimentar con especias (en este
+caso utilicé mix Tandoori (pimentón, cilantro,
+jengibre, comino...).</p>
 
-<p align="justify">Una vez lista, colocar un plato o superficie plana  que tape toda la sartén ("TOMBA TRUITAS") y dar la vuelta y colocar nuevamente en sartén.</p>
-
-<p align="justify">Repetir el proceso  hasta que la tortilla esté lista.</p>
-
-<p align="justify">Tip: si el fuego está más fuerte pero vas con cuidado para que no se queme puedes conseguir que la tortilla quede como un "Coulant", ¿te atreves?.</p>		
+<p align="justify">Cortar la zanahoria, apio y pepino en palitos.
+Servir.</p>		
 </section>
 
