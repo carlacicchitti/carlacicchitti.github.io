@@ -2,7 +2,7 @@
 layout: post
 title: Hummus de remolacha
 description: Ésta receta prodrás prepararla en 25 minutos aproximadamente.
-image: assets/images/IMG_20220522_220217600.jpg
+image: assets/images/hummusremolacha.jpg
 nav-menu: false
 show_tile: false
 ---
