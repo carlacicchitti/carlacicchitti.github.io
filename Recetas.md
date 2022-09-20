@@ -73,7 +73,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="receta4.html" class="image">
-			<img src="{% link assets/images/trashed-1664538195-IMG_20210701_175512934.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/Merluzaconpatatas.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
