@@ -4,6 +4,7 @@ title: Antropometría
 description: null
 image: antropometría.jpg
 nav-menu: false
+show_tile: false
 ---
 
 <p align="justify">La antropometría es una técnica utilizada que permite analizar la composición corporal y proporcionalidad 
