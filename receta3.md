@@ -2,7 +2,7 @@
 layout: post
 title: Gazpacho
 description: Ésta receta prodrás prepararla en 30 minutos aproximadamente.
-image: assets/images/IMG_20220522_220217600.jpg
+image: assets/images/gazpacho.jpg
 nav-menu: false
 show_tile: false
 ---
@@ -15,7 +15,7 @@ show_tile: false
 				<header class="major">
 					<h3>Ingredientes:</h3>
 				</header>
-				<p><li>1 kg de tomates.</li>
+				<p><li>1 kg de tomates</li>
 				<li>1 pimiento</li>
 				<li>1 pepino</li>
         			<li>2 dientes de ajo</li>
