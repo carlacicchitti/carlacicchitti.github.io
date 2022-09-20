@@ -2,7 +2,7 @@
 layout: post
 title: Merluza con patatas
 description: Ésta receta prodrás prepararla en 45 minutos aproximadamente.
-image: assets/images/IMG_20220522_220217600.jpg
+image: assets/images/Merluzaconpatatas.jpg
 nav-menu: false
 show_tile: false
 ---
