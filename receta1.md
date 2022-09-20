@@ -15,12 +15,12 @@ show_tile: false
 				<header class="major">
 					<h3>Ingredientes:</h3>
 				</header>
-				<p><li>2 cebollas.</li>
-				<li>1 berenjena.</li>
-				<li>1 boniato.</li>
-        			<li>6 huevos.</li>
-        			<li>pimienta.</li>
-        			<li>AOVE.</li></p>
+				<p><li>2 cebollas</li>
+				<li>1 berenjena</li>
+				<li>1 boniato</li>
+        			<li>6 huevos</li>
+        			<li>pimienta</li>
+        			<li>AOVE</li></p>
 				
 			</div>
 		</div>
