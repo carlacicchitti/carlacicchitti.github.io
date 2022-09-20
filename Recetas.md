@@ -48,7 +48,7 @@ show_tile: true
 				<header class="major">
 					<h3>Wok de verduras y quinoa</h3>
 				</header>
-				<p>Ésta es una receta vegetariana, completa y equilibrada.</p>
+				<p>Ésta es una receta completa y equilibrada.</p>
 				<ul class="actions">
 					<li><a href="receta2.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
@@ -78,9 +78,9 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Gazpacho</h3>
+					<h3>Merluza con patatas</h3>
 				</header>
-				<p>Opción ideal para días de calor.</p>
+				<p>Si no sabes como incluir pescado blanco en tu semana, puedes mirar ésta receta.</p>
 				<ul class="actions">
 					<li><a href="receta4.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
@@ -89,14 +89,14 @@ show_tile: true
 	</section>
 	<section>
 		<a href="receta5.html" class="image">
-			<img src="{% link assets/images/trashed-1664538195-IMG_20210701_175512934.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/garbanzosconverduras.JPG %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Gazpacho</h3>
+					<h3>Garbanzos con verduras salteadas</h3>
 				</header>
-				<p>Opción ideal para días de calor.</p>
+				<p>Opción ideal para incluir legumbres.</p>
 				<ul class="actions">
 					<li><a href="receta5.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
@@ -110,9 +110,9 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Gazpacho</h3>
+					<h3>Ensalada tabulé más huevo duro</h3>
 				</header>
-				<p>Opción ideal para días de calor.</p>
+				<p>Opción ideal para días de calor e incluir otra fuente de carbohidratos (combustible) de manera equilibrada.</p>
 				<ul class="actions">
 					<li><a href="receta6.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
@@ -126,9 +126,9 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Gazpacho</h3>
+					<h3>Bacalao con pimientos</h3>
 				</header>
-				<p>Opción ideal para días de calor.</p>
+				<p>Opción ideal para </p>
 				<ul class="actions">
 					<li><a href="receta7.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
@@ -137,14 +137,14 @@ show_tile: true
 	</section>
 	<section>
 		<a href="receta8.html" class="image">
-			<img src="{% link assets/images/trashed-1664538195-IMG_20210701_175512934.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/IMG_20220529_200356279.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Gazpacho</h3>
+					<h3>Escalivada</h3>
 				</header>
-				<p>Opción ideal para días de calor.</p>
+				<p>Opción ideal para días de calor como acompañante frío.</p>
 				<ul class="actions">
 					<li><a href="receta8.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
@@ -153,12 +153,12 @@ show_tile: true
 	</section>
 	<section>
 		<a href="receta9.html" class="image">
-			<img src="{% link assets/images/trashed-1664538195-IMG_20210701_175512934.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/hummusremolacha.jpg  %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Gazpacho</h3>
+					<h3>Hummus de remolacha</h3>
 				</header>
 				<p>Opción ideal para días de calor.</p>
 				<ul class="actions">
@@ -169,12 +169,12 @@ show_tile: true
 	</section>
 	<section>
 		<a href="receta10.html" class="image">
-			<img src="{% link assets/images/trashed-1664538195-IMG_20210701_175512934.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/fajitasdepollo.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Gazpacho</h3>
+					<h3>Fajitas de pollo</h3>
 				</header>
 				<p>Opción ideal para días de calor.</p>
 				<ul class="actions">
