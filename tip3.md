@@ -4,6 +4,7 @@ title: ¿Siempre debemos suplementar?
 description: null
 image: IMG_20220822_104723099.jpg
 nav-menu: false
+show_tile: false
 ---
 
 <p align="justify">La antropometría es una técnica utilizada que permite analizar la composición corporal y proporcionalidad 
