@@ -121,7 +121,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="receta7.html" class="image">
-			<img src="{% link assets/images/bacalaoconpimientos.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/bacalao.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
