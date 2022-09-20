@@ -17,12 +17,12 @@ show_tile: false
 				    </header>
 				    <p><li>400 g de garbanzos cocidos, que pueden ser de bote</li>
 				    <li>1/2 cebolla (100g)</li>
-				    <li>2 dientes de ajo.</li>
-        		<li>1/2 pimiento rojo y 1/2 pimiento verde (100g)</li>
-        		<li>1/4 calabación (50g)</li>
-            <li>1 zanahoria pequeña (100g)</li>
-            <li>1/2 cdita de comino molido, perejil picado, sal, pimienta</li>
-        		<li>AOVE.</li></p>
+				    <li>2 dientes de ajo</li>
+        			    <li>1/2 pimiento rojo y 1/2 pimiento verde (100g)</li>
+        			    <li>1/4 calabación (50g)</li>
+           			    <li>1 zanahoria pequeña (100g)</li>
+             			    <li>1/2 cdita de comino molido, perejil picado, sal, pimienta</li>
+        			    <li>AOVE</li></p>
 				
 			</div>
 		</div>
