@@ -23,7 +23,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="receta1.md" class="image">
+		<a href="antropometria.html" class="image">
 			<img src="{% link assets/images/Carla Antropometría.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
