@@ -39,7 +39,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="tip2.html" class="image">
 			<img src="{% link assets/images/recortar2.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>Hoy en día no solemos entender por qué no bajamos de peso, por qué no perdemos grasa corporal.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">¿Leer más?</a></li>
+					<li><a href="tip2.html" class="button">¿Leer más?</a></li>
 				</ul>
 			</div>
 		</div>
