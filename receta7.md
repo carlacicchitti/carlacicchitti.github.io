@@ -16,7 +16,7 @@ show_tile: false
 					<h3>Ingredientes:</h3>
 				</header>
 				<p><li>2 cebollas</li>
-				<li>3 lomos de Bacalao (300 - 350g)</li>
+				<li>3 lomos de Bacalao (300-350g)</li>
 				<li>2 pimientos verdes</li>
         			<li>1 pimiento rojo</li>
         			<li>2 tomates</li>
