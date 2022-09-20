@@ -33,7 +33,7 @@ nav-menu: true
 				</header>
 				<p>Un análisis de composición corporal utilizado en deportistas, sobre todo, para evaluar su composición corporal..</p>
 				<ul class="actions">
-					<li><a href="receta1.md" class="button">¿Cómo preparar?</a></li>
+					<li><a href="antropometria.html" class="button">¿Cómo preparar?</a></li>
 				</ul>
 			</div>
 		</div>
