@@ -20,7 +20,7 @@ show_tile: false
 				<li>1 cda de Tahini (pasta de semillas de sésamo)</li>
         			<li>zumo de 1 limón</li>
         			<li>especias a gusto (comino, pimentón, pimienta) y una pizca de sal</li>
-        			<li>2 cdas soperas de AOVE.</li></p>
+        			<li>2 cdas soperas de AOVE</li></p>
 				
 			</div>
 		</div>
