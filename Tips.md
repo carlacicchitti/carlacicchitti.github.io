@@ -55,7 +55,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="tip3.html" class="image">
 			<img src="{% link assets/images/IMG_20220822_104723099.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -65,7 +65,7 @@ nav-menu: true
 				</header>
 				<p>Es utilizada en deporte, generalmente, para cubrir las demandas incrementadas que éste conlleva.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="tip3.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
