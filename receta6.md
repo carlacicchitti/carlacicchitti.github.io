@@ -2,7 +2,7 @@
 layout: post
 title: Ensalada tabulé
 description: Ésta receta prodrás prepararla en 45 minutos aproximadamente.
-image: assets/images/IMG_20220522_220217600.jpg
+image: assets/images/ensaldatabule.jpg
 nav-menu: false
 show_tile: false
 ---
