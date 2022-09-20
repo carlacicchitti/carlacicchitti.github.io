@@ -15,12 +15,12 @@ show_tile: false
 				<header class="major">
 					<h3>Ingredientes:</h3>
 				</header>
-				<p>80g de cus cús<li></li>
+				<p></li>80g de cus cús<li>
 				<li>2 tomates (300g)</li>
 				<li>1 cebolla (300g)</li>
         			<li>zumo de 1 limón</li>
-        			<li></li>
-        			<li>sal, pimienta, menta fresca, perejil picado</li>
+        			<li>menta fresca, perejil picado</li>
+        			<li>sal, pimienta</li>
 				<li>AOVE</li></p>
 				
 			</div>
