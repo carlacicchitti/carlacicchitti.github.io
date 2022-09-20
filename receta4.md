@@ -15,12 +15,12 @@ show_tile: false
 				<header class="major">
 					<h3>Ingredientes:</h3>
 				    </header>
-				    <p><li>3 lomos de Merluza (400g).</li>
+				    <p><li>3 lomos de Merluza (400g)</li>
 				    <li>4 patatas medianas (400g)</li>
-				    <li>4 dientes de ajo partidos a la mitad.</li>
-            <li>1 cda vinagre de Jerez (15g)</li>
-        		<li>sal, pimienta, perejil picado</li>
-        		<li>AOVE</li></p>
+				    <li>4 dientes de ajo partidos a la mitad</li>
+            			    <li>1 cda vinagre de Jerez (15g)</li>
+        		 	    <li>sal, pimienta, perejil picado</li>
+        			    <li>AOVE</li></p>
 				
 			</div>
 		</div>
