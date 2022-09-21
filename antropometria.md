@@ -14,7 +14,7 @@ show_tile: false
 	             	<div class="content">
 			                <div class="inner">
 				                    <header class="major">
-					                       <h3>Mi historia</h3>
+					                       <h3>¿De qué se trata?</h3>
 			                    	</header>
                         <p align="justify">La antropometría es una técnica utilizada que permite analizar la composición corporal y proporcionalidad 
 de las personas.</p>
