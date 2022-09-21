@@ -49,7 +49,7 @@ nav-menu: true
 				</header>
 				<p>Hoy en día no solemos entender por qué no bajamos de peso, por qué no perdemos grasa corporal.</p>
 				<ul class="actions">
-					<li><a href="tip2.html" class="button">¿Leer más?</a></li>
+					<li><a href="tip2.html" class="button">Leer más</a></li>
 				</ul>
 			</div>
 		</div>
@@ -65,7 +65,7 @@ nav-menu: true
 				</header>
 				<p>Es utilizada en deporte, generalmente, para cubrir las demandas incrementadas que éste con lleva.</p>
 				<ul class="actions">
-					<li><a href="tip3.html" class="button">Learn more</a></li>
+					<li><a href="tip3.html" class="button">Leer más</a></li>
 				</ul>
 			</div>
 		</div>
