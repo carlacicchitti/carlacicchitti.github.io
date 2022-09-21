@@ -53,7 +53,7 @@ nav-menu: true
 <p>      </p>
 
 
-<p align="justify">Comenzó la pandemia por lo que decidí quedarme allí trabajando en este proyecto y junto a mi familia, hasta que decidí ir por nuevos desafíos. Desde hace ya tiempo me encuentro trabajando en Barcelona, sobre todo pasando consultas nutricionales online o presenciales....</p>
+<p align="justify">Comenzó la pandemia por lo que decidí quedarme allí trabajando en este proyecto y junto a mi familia, hasta que decidí ir por nuevos desafíos. Desde hace ya tiempo me encuentro trabajando en Barcelona, sobre todo pasando consultas nutricionales online o presenciales.</p>
 	
 <p align="justify">En cuanto a mi experiencia laboral, he sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, saludables, deportivos; he dado 4 temporadas cursos online de nutricion deportiva y he trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...Hoy en día mi objetivo es transmitir que llevar una alimentación saludable no es cosa de unos pocos, que si bien lo parece, el alimentarse equilibradamente y llevar una vida saludable es algo que todos podemos lograr siempre y cuando nos hayan enseñado de una manera asimiladora cómo es realmente la nutrición.</p>
 					
