@@ -7,8 +7,10 @@ nav-menu: false
 show_tile: false
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Hoy en día existe muchas dietas posibles con nombres y maneras diferentes de llevarlas a cabo. Existe tanta información dando vueltas sobre qué es lo mejor que puedes hacer que no sabemos qué es lo que nos puede ayudar a perder peso corporal.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+La diferencia entre "comenzar la dieta" y llevar una alimentación equilibrada es que una parece que la llevamos a cabo como castigo, encambio una alimentación equilibrada nos permite reducir peso corporal a partir de grasa si afectar la masa muscular de manera progresiva y que logramos sostener a lo largo del tiempo.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+A medida que adquirimos hábitos saludables podemos darnos cuenta que para estar en nuestro peso y ser saludables no requiere de "sufrir" con lo que comemos, sino que por el contrario se trata de aprender a disfrutar de los alimentos y nutrientes que nos aportan, ya que alimentación saludable puede ir de la mano con "rica/sabrosa/apetecible". Es cuestión de cambiar el chip. 
+
+Te recomiendo que poco a poco vayas generando algunos cambios que te lleven hacia una alimentación equilibrada la mayor parte del tiempo, y en caso que quieras algo no tan saludable, ¡adelante! disfruta de manera consciente cuidando cantidades.
