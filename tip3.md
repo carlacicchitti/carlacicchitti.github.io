@@ -7,9 +7,12 @@ nav-menu: false
 show_tile: false
 ---
 
-<p align="justify">La antropometría es una técnica utilizada que permite analizar la composición corporal y proporcionalidad 
-de las personas.</p>
-<p align="justify">A partir de medidas básicas (peso, talla, envergadura, talla sentada), pliegues cutáneos, circunferencias y diámetros se obtienen datos que ayudan a mejorar la planificación nutricional, objetivo y resultado del deportista.</p>
+<p align="justify">Es un tema que hoy en día cada vez se habla más. 
+Hasta incluso ustedes mismos/as seguramente han tomado alguna vez un suplemento – 
+Algún multivitamínico, proteínas, creatina ….????
+O en los boxs, los gimnasios pueden haber escuchado a alguien hablar de quemadores de grasas o les han preguntado sobre que tomar…</p>
+
+<p align="justify">Lo importante respecto a la suplementación deportiva es entender que no es un blanco o negro, "no debemos suplementar" o "siempre que hagas deporte suplementa", aquí debemos tener en cuenta cuál es nuestro objetivo, qué suplemento ayudara a cumplir este objetivo, qué marca tomar (no todas son iguales porque digan "whey protein") y qué dosis corresponde.</p>
  
-<p align="justify">Además, permite conocer el punto de partida de una persona y valorar su progreso en el tiempo de manera objetiva.</p>
+<p align="justify">Además, es importante entender que primero debemos modificar la base de la pirámide "alimentación + descanso + entrenamiento" y luego si nos hace falta, suplementar.</p>
  
