@@ -6,8 +6,8 @@ image: assets/images/
 nav-menu: true
 ---
 
-<p align="justify">Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace tiempo, y es por ello que intento transmitir que llevar una VIDA SALUDABLE con una alimentación equilibrada y entrenando es posible para todos, se trata de trabajar la confianza en uno mismo, dejar de lado ciclos repetitivos entre restricciones y excesos alimentarios, aprender a comer y moverte!. Una vez que entras en ritmo no quieres dejar ésta forma de vivir que te hará sentir bien, inclusive en emociones y pensamientos.<p/>
-<p align="justify">Por otro lado, me dedico a ayudar a deportistas a cumplir sus objetivos, ya sea modificar su composición corporal, mejorar su rendimiento deportivo o planificar la nutrición para competiciones. De acuerdo a las características individuales, tipo de deporte y calendario de entrenamientos planifico la ingesta de energía y nutrientes necesarios para el cumplimiento de su objetivo.<p/>
+<p align="justify">Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace tiempo, y es por ello que intento transmitir que llevar una VIDA SALUDABLE con una alimentación equilibrada y entrenando es posible para todos, se trata de trabajar la confianza en uno mismo, dejar de lado los ciclos repetitivos entre restricciones y excesos alimentarios, aprender a comer y moverte!. Una vez que entras en ritmo no quieres dejar ésta forma de vivir que te hará sentir bien, incluso influye en tus emociones y pensamientos.<p/>
+<p align="justify">Por otro lado, me dedico a ayudar a deportistas a cumplir sus objetivos, ya sea modificar su composición corporal, mejorar su rendimiento deportivo o planificar alimentación para competiciones. De acuerdo a las características individuales, tipo de deporte y calendario de entrenamientos planifico la ingesta de energía y nutrientes necesarios para el cumplimiento de objetivos.<p/>
 <p>
 
 <!-- Two -->
@@ -19,7 +19,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Actualmente, paso consulta presencial en Barcelona en cuatro clubes/centro deportivos:</h3>
+					<h3>Actualmente, paso consulta presencial en Barcelona en clubes/centro deportivos:</h3>
 				</header>
 				<p><li>Club de Natación Àtletic-Barceloneta.</li>
 				<li>Gimnasio Horta Deportiva.</li>
@@ -41,8 +41,13 @@ nav-menu: true
 				<header class="major">
 					<h3>Mi historia</h3>
 				</header>
-				<p align="justify">Estudié en Argentina el grado de Nutrición deicidí homologar mi título en España luego de haberme encontrado perfeccionando mi Inglés en Londres, para especializarme en Nutrición Deportiva. Vine junto con el equipo de running de ese momento a correr por primera vez una Maratón (42km), en este caso la Maratón de Berlin. Y a partir de ahí comenzó a cambiarme la cabeza.  Opté por un Máster en Nutrición Deportiva en la Universidad de Barcelona ya que daba la posibilidad a realizar prácticas en el FCB. Quedé seleccionada para incorporarme al club con contrato de prácticas donde estuve trabajando durante seis meses.</p>
-<p align="justify">Una vez finalizado el máster decidí volver a mi país para continuar con un proyecto pendiente. Siendo asesora nutricional en una empresa destinada a la distribución de productos tenía como objetivo el de dar una nueva visión a la empresa de productos que deberían ser incorporados al mercado para lograr que las personas lograran adquirir una mayor variedad de productos saludables. Comenzó la pandemia por lo que decidí pasarla allí trabajando en este proyecto y con mi familia. En Argentina, las cosas iban muy bien en el ámbito laboral pero necesitaba un nuevo desafío y es por ello que volví a Europa para comenzar con nuevos proyectos....</p>
+				<p align="justify">Estudié en Argentina el grado de Nutrición y deicidí homologar mi título para Especializarme en Nutrición Deportiva en España. Coincidió en 2018, tener la inscripción para la Maratón de Berlín (42km) por lo que viajé a Europa junto con el equipo de running de ese momento y fue la primera vez que participé en 42km (sinceramente en ese momento no me tenía confianza de finalizarla, pero luego me di cuenta que si dedicamos tiempo, nos esforzamos y somos constantes podemos lograrlo).</p>  
+				<p align="justify">Opté por un Máster en Nutrición Deportiva en la Universidad de Barcelona ya que daba la posibilidad a realizar prácticas en el Fútbol Club Barcelona (imaginen que para encontrarme en el otro lado del mundo esto era un sueño). Quedé seleccionada para incorporarme al club con contrato de prácticas, donde estuve trabajando durante seis meses y aprendiendo de referentes mundiales en nutrición deportiva.</p>
+
+				<p align="justify">Una vez finalizado el máster decidí volver a mi país para continuar con un proyecto pendiente. Siendo socia-asesora nutricional en una empresa destinada a la distribución de productos, tenía como objetivo el de dar una nueva visión a la empresa,  incorporar al mercado opciones para que las personas pudiesen adquirir una mayor variedad de productos saludables (las opciones en supermercado de Argentina son más reducidas que Europa y el poder de acceso es menor).</p>
+				<p align="justify">Comenzó la pandemia por lo que decidí quedarme allí trabajando en este proyecto y junto a mi familia, hasta que decidí ir por nuevos desafíos.</p>
+				
+				<p align="justify">Desde hace ya tiempo me encuentro trabajando en Barcelona, sobre todo pasando consultas nutricionales online o presenciales....</p>
 <p>      </p>
 <p>      </p>
 			</div>
