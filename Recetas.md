@@ -30,7 +30,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Tortilla Àxel</h3>
+					<h3>Tortilla de verduras</h3>
 				</header>
 				<p>Una opción equilibrada y nutritiva para preparar.</p>
 				<ul class="actions">
