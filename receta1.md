@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tortilla Àxel
+title: Tortilla de verduras
 description: Ésta receta prodrás prepararla en 50 minutos aproximadamente.
 image: assets/images/IMG_20220522_220217600.jpg
 nav-menu: false
