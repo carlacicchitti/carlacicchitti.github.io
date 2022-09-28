@@ -52,7 +52,7 @@ nav-menu: true
 		<li><b>5 visitas de seguimiento </b> (duración aproximada 30'c/ una).</li></p>
 		<p>      </p>
 		<p>      </p>
-    		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">205 €</a>
+    		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">204 €</a>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Pack Nutricional Online 3S.</h3> <h4>1º CONSULTA (45') + ENTREGA DE PAUTA <p> + 3 SEGUIMIENTOS (30')</p></h4>
