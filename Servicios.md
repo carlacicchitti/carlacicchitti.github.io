@@ -30,16 +30,16 @@ nav-menu: true
 
 <div class="row">
   	<div class="4u 12u$(medium)">
-		<h3>Visita Mensual Online</h3> <h4>1º CONSULTA (45') + ENTREGA DE PAUTA   </br>          </h4>
+		<h3>Visita Mensual Online</h3> <h4>1º CONSULTA (45') + ENTREGA DE PAUTA</h4>
+		<br />
 		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional mediante <b>videollamada</b>.</li>
 		<li><b>Pauta nutricional</b> adaptada a características individuales y objetivos.</li>
 		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
-		<li>Las visitas de seguimientos individuales tienen un costo de 40 €.</li></p>
+		<li>Las <b>visitas de seguimientos individuales</b> tienen un costo de 40 €.</li></p>
 		<p>  </p>
 		<p>  </p>
-		<br />
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">55 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -49,7 +49,7 @@ nav-menu: true
 		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
-		<li>5 visitas de seguimiento de 30' c/ una .</li></p>
+		<li><b>5 visitas de seguimiento </b> (duración aproximada 30'c/ una)</li></p>
 		<p>      </p>
 		<p>      </p>
     		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">205 €</a>
@@ -61,7 +61,7 @@ nav-menu: true
 		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
-		<li><b>3 visitas de seguimiento de 30' c/ una </b> .</li></p>
+		<li><b>3 visitas de seguimiento </b>(duración aproximada 30'c/ una).</li></p>
 		<p></p>
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">160 €</a>
 	</div>
