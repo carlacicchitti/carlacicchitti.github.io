@@ -37,7 +37,7 @@ nav-menu: true
 		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
-		<li>Las <b>visitas de seguimientos individuales</b> (duración aproximada 30') tienen un costo de 40€.</li></p>
+		<li>Las <b>visitas de seguimientos individuales</b> (duración aproximada 30' - costo 40 €).</li></p>
 		<p>  </p>
 		<p>  </p>
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">55 €</a>
