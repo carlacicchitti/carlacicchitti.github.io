@@ -32,8 +32,8 @@ nav-menu: true
   	<div class="4u 12u$(medium)">
 		<h3>Visita Mensual Online</h3> <h4>(videollamada + entrega de pauta vía email)      </h4>
 		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional.</li>
-		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
-		<li>Incluye menú.</li>
+		<li><b>Pauta nutricional</b> adaptada a características individuales y objetivos.</li>
+		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li></p>
 		<p>  </p>
@@ -43,27 +43,27 @@ nav-menu: true
 		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">55 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Pack Nutricional Online 3S.</h3> <h4> (videollamada + entrega de pauta vía email)</h4>
+		<h3>Pack Nutricional Online 5S.</h3> <h4> (videollamada + entrega de pauta vía email)</h4>
 		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional.</li>
-		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
-		<li>Incluye menú.</li>
+		<li><b>Pauta nutricional</b> adaptada a características individuales y objetivos.</li>
+		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>5 visitas de seguimiento online.</li></p>
 		<p>      </p>
 		<p>      </p>
-    		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">160 €</a>
+    		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">205 €</a>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Pack Nutricional Online 5S.</h3> <h4>(videollamada + entrega de pauta vía email)</h4>
+		<h3>Pack Nutricional Online 3S.</h3> <h4>(videollamada + entrega de pauta vía email)</h4>
 		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional.</li>
-		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
-		<li>Incluye menú.</li>
+		<li><b>Pauta nutricional</b> adaptada a características individuales y objetivos.</li>
+		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
 		<li>Resolución de dudas (email) durante duración de servicio.</li>
 		<li>3 visitas de seguimiento online.</li></p>
 		<p></p>
-		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">205 €</a>
+		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">160 €</a>
 	</div>
 </div>
 <!-- Content -->
