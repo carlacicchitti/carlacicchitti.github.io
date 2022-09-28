@@ -30,8 +30,8 @@ nav-menu: true
 
 <div class="row">
   	<div class="4u 12u$(medium)">
-		<h3>Visita Mensual Online</h3> <h4>(1ra y 2da visita)      </h4>
-		<p><li>Cuestionario y valoración nutricional.</li>
+		<h3>Visita Mensual Online</h3> <h4>(videollamada + entrega de pauta vía email)      </h4>
+		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
@@ -40,11 +40,11 @@ nav-menu: true
 		<p>  </p>
 		<p>  </p>
 		<br />
-		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">57 €</a>
+		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">55 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Pack Nutricional Online</h3> <h4> (1ra + 2da) + 5 seguimientos</h4>
-		<p><li>Cuestionario y valoración nutricional.</li>
+		<h3>Pack Nutricional Online 3S.</h3> <h4> (videollamada + entrega de pauta vía email)</h4>
+		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
@@ -55,8 +55,8 @@ nav-menu: true
     		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">230 €</a>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Pack Nutricional Online</h3> <h4>(1ra + 2da) + 3 seguimientos</h4>
-		<p><li>Cuestionario y valoración nutricional.</li>
+		<h3>Pack Nutricional Online 5S.</h3> <h4>(videollamada + entrega de pauta vía email)</h4>
+		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional.</li>
 		<li>Pauta nutricional adaptada a características individuales y objetivos.</li>
 		<li>Incluye menú.</li>
 		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
