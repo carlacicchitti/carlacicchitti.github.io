@@ -22,7 +22,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: white;">Consultas presenciales en Barcelona en clubes/centro deportivos:</h3>
+					<h3 style="color: white;">Asesorías presenciales en Barcelona:</h3>
 				</header>
 				<p>
 				<li style="color: white;">Club de Natación Àtletic-Barceloneta.</li>
