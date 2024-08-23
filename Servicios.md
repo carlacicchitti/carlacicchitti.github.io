@@ -42,7 +42,7 @@ nav-menu: true
 	<div class="4u$ 12u$(medium)">
 		<h3>Asesorias Presencial</h3> <h4>PRIMERA VISITA</h4>
 		<p></p>
-		<a href="mapas" class="button medium">Seleccionar Centro </a>
+		<a href="#mapas" class="button medium">Seleccionar Centro</a>
 	</div>
 </div>
 <!-- Content -->
@@ -51,7 +51,7 @@ nav-menu: true
 <p> </p>
 <p> </p>
 <a id="mapas"></a>		
-<h2 id="content">Asesorías presenciales</h2>
+<h2>Asesorías presenciales</h2>
 <p>Para solicitar una asesoría presencial contacta con el centro/club más cercano.</p>
 	<div class="row">
 	<!-- Break -->
