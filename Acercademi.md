@@ -44,19 +44,7 @@ nav-menu: true
     
 	
 <section>
-<!-- Texto de la historia -->
-		<div class="text-content">
-			<header class="major">
-				<h3>Mi historia</h3>
-			</header>
-			<p align="justify">Estudié en Argentina el grado de Nutrición y decidí homologar mi título para especializarme en Nutrición Deportiva en Barcelona. Coincidió en 2018 tener la inscripción para la Maratón de Berlín (42km), por lo que viajé a Europa junto con el equipo de running de ese momento. Fue la primera vez que participé en 42km y luego de allí comencé a interesarme más por el Trail Running. Me agradan los deportes en general y es parte de mi día a día entrenar.</p>  
-			<p align="justify">En 2018 realicé un Máster en Nutrición Deportiva en la Universidad de Barcelona y quedé seleccionada para realizar prácticas en el Fútbol Club Barcelona.</p>
-			<p align="justify">En cuanto a mi experiencia laboral, he sido asesora nutricional en una empresa de alimentación y he dado varios cursos de Nutrición Deportiva Online colaborando con LevelFit Instituto de Alto Rendimiento Deportivo en Buenos Aires, Argentina.</p>
-		</div>
-
-		<!-- Imagen adicional -->
-		<div class="additional-image">
-			<a href="generic.html" class="image">
+		<a href="generic.html" class="image">
 				<img src="{% link assets/images/SAVE_20200807_230801.jpg %}" alt="" data-position="top center" />
 			</a>
 		</div>
