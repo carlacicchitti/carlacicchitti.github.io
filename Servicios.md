@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Servicios
+title: Servicios de asesoría personalizados
 description: 'Las asesorías nutricionales dependerán de tu objetivos y características individuales como tu historial cínico, hábitos, preferencias, actividad física que realizas habitualmente.
 Si quieres mejorar hábitos, bajar de peso a partir de masa grasa, incrementar masa muscular o aprender a comer no dudes en contactarme.'
 image: null
@@ -40,7 +40,7 @@ nav-menu: true
 		<li>Las <b>visitas de seguimientos individuales</b> (duración aproximada 30' - costo 40 €).</li></p>
 		<p>  </p>
 		<p>  </p>
-		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button big">55 €</a>
+		<a href="[https://easyweek.io/carla-cicchitti-nutricion-deportiva]" class="button big">55 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Pack Nutricional Online 5S.</h3> <h4> 1º CONSULTA (45') + ENTREGA DE PAUTA <p> + 5 SEGUIMIENTOS (30')</p></h4>
