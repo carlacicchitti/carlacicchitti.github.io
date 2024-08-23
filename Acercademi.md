@@ -30,10 +30,18 @@ nav-menu: true
     				<li style="color: white;">Sitonia Fit.</li>
 				<ul class="actions">
 					<li><a href="Servicios.html#mapas" class="button" style="color: white; border: 1px solid white;margin-top: 20px">Ver ubicación</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+ 			<!-- Nueva sección -->
+                <header class="major" style="color: white; margin-top: 40px;">
+                    <h3>Asesoría empresarial</h3>
+                </header>
+                <ul style="color: white;">
+                    <li>Abertis S.A.</li>
+                    <li>ISDIN</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    
 	
 <section>
 		<a href="generic.html" class="image">
