@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Servicios de asesoría personalizados
+title: Servicios de asesoría nutricionales y deportivas
 description: 'Las asesorías nutricionales dependerán de tu objetivos y características individuales como tu historial cínico, hábitos, preferencias, actividad física que realizas habitualmente.
 Si quieres mejorar hábitos, bajar de peso a partir de masa grasa, incrementar masa muscular o aprender a comer no dudes en contactarme.'
 image: null
@@ -21,7 +21,7 @@ nav-menu: true
 				
 <h2 id="asesorías online">Asesorías online</h2>
 <p>¿Cómo se llevan a cabo las asesorías online? </p>
-<a href="Asesoríaonline.html" class="button big">Información</a>
+<a href=""mailto:carlacicchitti@gmail.com" class="button big">Información</a>
 		
 <br />
 <br />
@@ -73,7 +73,7 @@ nav-menu: true
 <p> </p>
 <a id="mapas"></a>		
 <h2 id="content">Asesorías presenciales</h2>
-<p>Para solicitar una asesoría presencial contacta con el centro/club más cercano o que se adapte a tus necesidades.</p>
+<p>Para solicitar una asesoría presencial contacta con el centro/club más cercano.</p>
 
 	<div class="row">
 	<!-- Break -->
