@@ -30,23 +30,16 @@ nav-menu: true
 
 <div class="row">
   	<div class="4u 12u$(medium)">
-		<h3>Nutrición Deportiva</h3> <h4>PRIMERA VISITA</h4>
-		 class="button big">55 €</a>
+		<h3>Nutrición Deportiva Online</h3> <h4>PRIMERA VISITA</h4>
+		 <p></p>
+		<a href="mailto:carlacicchitti@gmail.com" class="button big">55 €</a>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Pack Nutricional Online 5S.</h3> <h4> 1º CONSULTA (45') + ENTREGA DE PAUTA <p> + 5 SEGUIMIENTOS (30')</p></h4>
-		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional mediante <b>videollamada</b>.</li>
-		<li><b>Pauta nutricional</b> adaptada a características individuales y objetivos.</li>
-		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
-		<li>Asesoramiento sobre suplementación (de ser necesario).</li>
-		<li>Resolución de dudas (email) durante duración de servicio.</li>
-		<li><b>5 visitas de seguimiento </b> (duración aproximada 30'c/ una).</li></p>
-		<p>      </p>
-		<p>      </p>
-    		<a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special big">204 €</a>
+		<h3>Asesoría Nutricional Online</h3> <h4> PRIMERA VISITA <p></h4>
+    		<a href="mailto:carlacicchitti@gmail.com"  class="button special big">204 €</a>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Pack Nutricional Online 3S.</h3> <h4>1º CONSULTA (45') + ENTREGA DE PAUTA <p> + 3 SEGUIMIENTOS (30')</p></h4>
+		<h3>,,</h3> <h4>1º CONSULTA (45') + ENTREGA DE PAUTA <p> + 3 SEGUIMIENTOS (30')</p></h4>
 		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional mediante <b>videollamada</b>.</li>
 		<li><b>Pauta nutricional</b> adaptada a características individuales y objetivos.</li>
 		<li>La pauta incluye <b>menú</b> y se entrega vía <b>e-mail</b> (de ser necesario se concreta video llamada para aclarar dudas).</li>
