@@ -6,11 +6,11 @@ image: assets/images/
 nav-menu: true
 ---
 
-<p align="justify">Me considero una persona apasionada por mi profesión y por lo que hago. La nutrición y el deporte han sido parte integral de mi vida durante mucho tiempo, y me esfuerzo por transmitir que un ESTILO DE VIDA SALUDABLE es posible para todos, adaptándose de manera equilibrada a la vida de cada persona.".<p/>
+<p align="justify">Me considero una persona apasionada por mi profesión y por lo que hago. La nutrición y el deporte han sido parte integral de mi vida durante mucho tiempo, y me esfuerzo por transmitir que un ESTILO DE VIDA SALUDABLE es posible para todos, adaptándose de manera equilibrada a la vida de cada persona..<p/>
 
-<p align="justify">Actualmente, colaboro con empresas como ISDIN y Abertis S.A., ofreciendo sesiones de nutrición para promover hábitos alimenticios saludables dentro del entorno laboral. Los cambios en la alimentación no solo mejoran el bienestar físico general de los empleados, sino que también pueden aumentar la productividad en el lugar de trabajo".<p/>
+<p align="justify">Actualmente, colaboro con empresas como ISDIN y Abertis S.A., ofreciendo sesiones de nutrición para promover hábitos alimenticios saludables dentro del entorno laboral. Los cambios en la alimentación no solo mejoran el bienestar físico general de los empleados, sino que también pueden aumentar la productividad en el lugar de trabajo.<p/>
 
-<p align="justify">Además, me dedico a ayudar a deportistas a alcanzar sus objetivos, ya sea mejorar su rendimiento, modificar su composición corporal o planificar su alimentación para competiciones. Considerando las características individuales, el tipo de deporte y el calendario de entrenamientos, diseño planes nutricionales personalizados que aseguran la ingesta adecuada de energía y nutrientes para cumplir sus metas..<p/>
+<p align="justify">Además, me dedico a ayudar a deportistas a alcanzar sus objetivos, ya sea mejorar su rendimiento, modificar su composición corporal o planificar su alimentación para competiciones. Considerando las características individuales, el tipo de deporte y el calendario de entrenamientos, diseño planes nutricionales personalizados que aseguran la ingesta adecuada de energía y nutrientes para cumplir sus metas.<p/>
 <p>
 
 <!-- Two -->
@@ -22,12 +22,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Actualmente, paso consulta presencial en Barcelona en clubes/centro deportivos:</h3>
+					<h3>Consultas presenciales en Barcelona en clubes/centro deportivos:</h3>
 				</header>
 				<p><li>Club de Natación Àtletic-Barceloneta.</li>
 				<li>Gimnasio Horta Deportiva.</li>
-				<li>CEM Vintró.</li>
-				<li>Artrodinàmic.</li></p>
+				<li>Sitonia Fit.</li>
 				<ul class="actions">
 					<li><a href="Servicios.html#mapas" class="button">Ver ubicación</a></li>
 				</ul>
