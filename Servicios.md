@@ -42,7 +42,7 @@ nav-menu: true
 	<div class="4u$ 12u$(medium)">
 		<h3>Asesorias Presencial</h3> <h4>PRIMERA VISITA</h4>
 		<p></p>
-		<a href="Asesorías Presenciales" class="button big">Seleccionar Centro</a>
+		<a href="Asesorías Presenciales" class="button medium">Seleccionar Centro</a>
 	</div>
 </div>
 <!-- Content -->
