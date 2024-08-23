@@ -24,10 +24,10 @@ nav-menu: true
 				<header class="major">
 					<h3 style="color: white;">Consultas presenciales en Barcelona en clubes/centro deportivos:</h3>
 				</header>
-				<p style="color: white;">
-				<li>Club de Natación Àtletic-Barceloneta.</li>
-				<li>Gimnasio Horta Deportiva.</li>
-				<li>Sitonia Fit.</li>
+				<p>
+				<li style="color: white;">Club de Natación Àtletic-Barceloneta.</li>
+    				<li style="color: white;">Gimnasio Horta Deportiva.</li>
+    				<li style="color: white;">Sitonia Fit.</li>
 				<ul class="actions">
 					<li><a href="Servicios.html#mapas" class="button" style="color: white; border: 1px solid white;">Ver ubicación</a></li>
 				</ul>
