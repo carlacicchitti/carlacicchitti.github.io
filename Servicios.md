@@ -30,7 +30,7 @@ nav-menu: true
 
 <div class="row">
   	<div class="4u 12u$(medium)">
-		<h3>Visita Mensual Online</h3> <h4>1º CONSULTA (45') + ENTREGA DE PAUTA</h4>
+		<h3>Visita Mensual Online</h3> <h4>1º CONSULTA (45') <b>+ ENTREGA DE PAUTA</b></h4>
 		<br />
 		<p><li><b>Valoración inicial:</b> cuestionario y valoración nutricional mediante <b>videollamada</b>.</li>
 		<li><b>Pauta nutricional</b> adaptada a características individuales y objetivos.</li>
