@@ -39,15 +39,13 @@ nav-menu: true
                     <li>ISDIN</li>
         	</ul>
 		</ul>
-	</div>
-	</div>
+	
   <section>
 <section>
 		<a href="generic.html" class="image">
 				<img src="{% link assets/images/SAVE_20200807_230801.jpg %}" alt="" data-position="top center" />
 			</a>
-		</div>
-	</div>
+		
 </section>
 
 <!-- Formación -->
