@@ -44,10 +44,10 @@ nav-menu: true
 				<header class="major">
 					<h3>Mi historia</h3>
 				</header>
-				<p align="justify">Estudié en Argentina el grado de Nutrición y deicidí homologar mi título para Especializarme en Nutrición Deportiva en España. Coincidió en 2018, tener la inscripción para la Maratón de Berlín (42km) por lo que viajé a Europa junto con el equipo de running de ese momento y fue la primera vez que participé en 42km (sinceramente en ese momento no me tenía confianza de finalizarla, pero luego me di cuenta que si dedicamos tiempo, nos esforzamos y somos constantes podemos lograrlo).</p>  
-				<p align="justify">Opté por un Máster en Nutrición Deportiva en la Universidad de Barcelona ya que daba la posibilidad a realizar prácticas en el Fútbol Club Barcelona (imaginen que para encontrarme en el otro lado del mundo esto era un sueño). Quedé seleccionada para incorporarme al club con contrato de prácticas, donde estuve trabajando durante seis meses y aprendiendo de referentes mundiales en nutrición deportiva.</p>
+				<p align="justify">Estudié en Argentina el grado de Nutrición y deicidí homologar mi título para Especializarme en Nutrición Deportiva en Barcelona. Coincidió en 2018, tener la inscripción para la Maratón de Berlín (42km) por lo que viajé a Europa junto con el equipo de running de ese momento y fue la primera vez que participé en 42km y luego de allí comencé a interesarme más por el Trail Running. Me agradan los deportes en general y es parte de mi día a día entrenar</p>  
+				<p align="justify">En 2018 realicé un Máster en Nutrición Deportiva en la Universidad de Barcelona y quedé seleccionada para realizar prácticas en el Fútbol Club Barcelona.</p>
 
-				<p align="justify">Una vez finalizado el máster decidí volver a mi país para continuar con un proyecto pendiente. Siendo socia-asesora nutricional en una empresa destinada a la distribución de productos, tenía como objetivo el de dar una nueva visión a la empresa,  incorporar al mercado opciones para que las personas pudiesen adquirir una mayor variedad de productos saludables (las opciones en supermercado de Argentina son más reducidas que Europa y el poder de acceso es menor).</p>
+				<p align="justify">En cuanto a mi experiencia laboral, he sido asesora nutricional en una empresa de alimentación y he dado varios cursos de Nutrición Deportiva Online colaborando con LevelFit Instituto de Alto Rendimiento Deportivo, en Buenos Aires, Argentina.</p>
 			</div>
 		</div>
 </section>
@@ -56,7 +56,7 @@ nav-menu: true
 <p>      </p>
 
 
-<p align="justify">Comenzó la pandemia por lo que decidí quedarme allí trabajando en este proyecto y junto a mi familia, hasta que decidí ir por nuevos desafíos. Desde hace ya tiempo me encuentro trabajando en Barcelona, sobre todo pasando consultas nutricionales online o presenciales.</p>
+<p align="justify">.</p>
 	
 <p align="justify">En cuanto a mi experiencia laboral, he sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, saludables, deportivos; he dado 4 temporadas cursos online de nutricion deportiva y he trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...Hoy en día mi objetivo es transmitir que llevar una alimentación saludable no es cosa de unos pocos, que si bien lo parece, el alimentarse equilibradamente y llevar una vida saludable es algo que todos podemos lograr siempre y cuando nos hayan enseñado de una manera asimiladora cómo es realmente la nutrición.</p>
 					
