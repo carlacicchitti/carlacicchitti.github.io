@@ -20,8 +20,8 @@ nav-menu: true
 <!-- Content -->
 				
 <h2 id="asesorías online">Asesorías online</h2>
-<p>¿Cómo se llevan a cabo las asesorías online? </p>
-<a href=""mailto:carlacicchitti@gmail.com" class="button big">Información</a>
+<p>¿Cómo se llevan a cabo las asesorías online?</p>
+<a href="mailto:carlacicchitti@gmail.com" class="button big">Información</a>
 		
 <br />
 <br />
