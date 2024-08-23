@@ -32,7 +32,7 @@ nav-menu: true
 					<li><a href="Servicios.html#mapas" class="button" style="color: white; border: 1px solid white;margin-top: 20px">Ver ubicación</a></li>
  			<!-- Nueva sección -->
                 <header class="major" style="color: white; margin-top: 40px;">
-                    <h3>Asesoría empresarial</h3>
+                    <h3 style="color: white;">Asesoría empresarial</h3>
                 </header>
                 <ul style="color: white;">
                     <li>Abertis S.A.</li>
