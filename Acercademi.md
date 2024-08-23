@@ -38,11 +38,10 @@ nav-menu: true
                     <li>Abertis S.A.</li>
                     <li>ISDIN</li>
         	</ul>
-            </div>
-        </div>
-  
-    
-	
+		</ul>
+	</div>
+	</div>
+  <section>
 <section>
 		<a href="generic.html" class="image">
 				<img src="{% link assets/images/SAVE_20200807_230801.jpg %}" alt="" data-position="top center" />
