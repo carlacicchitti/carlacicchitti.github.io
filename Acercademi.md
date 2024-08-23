@@ -1,13 +1,16 @@
 ---
 layout: post
-title: ¡Te cuento un poco sobre mí! 
+title: Sobre mí 
 description: 'Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo...'
 image: assets/images/
 nav-menu: true
 ---
 
-<p align="justify">Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace tiempo, y es por ello que intento transmitir que llevar una VIDA SALUDABLE con una alimentación equilibrada y entrenando es posible para todos, se trata de trabajar la confianza en uno mismo, dejar de lado los ciclos repetitivos entre restricciones y excesos alimentarios, aprender a comer y moverte!. Una vez que entras en ritmo no quieres dejar ésta forma de vivir que te hará sentir bien, incluso influye en tus emociones y pensamientos.<p/>
-<p align="justify">Por otro lado, me dedico a ayudar a deportistas a cumplir sus objetivos, ya sea modificar su composición corporal, mejorar su rendimiento deportivo o planificar alimentación para competiciones. De acuerdo a las características individuales, tipo de deporte y calendario de entrenamientos planifico la ingesta de energía y nutrientes necesarios para el cumplimiento de objetivos.<p/>
+<p align="justify">Me considero una persona apasionada por mi profesión y por lo que hago. La nutrición y el deporte han sido parte integral de mi vida durante mucho tiempo, y me esfuerzo por transmitir que un ESTILO DE VIDA SALUDABLE es posible para todos, adaptándose de manera equilibrada a la vida de cada persona.".<p/>
+
+<p align="justify">Actualmente, colaboro con empresas como ISDIN y Abertis S.A., ofreciendo sesiones de nutrición para promover hábitos alimenticios saludables dentro del entorno laboral. Los cambios en la alimentación no solo mejoran el bienestar físico general de los empleados, sino que también pueden aumentar la productividad en el lugar de trabajo".<p/>
+
+<p align="justify">Además, me dedico a ayudar a deportistas a alcanzar sus objetivos, ya sea mejorar su rendimiento, modificar su composición corporal o planificar su alimentación para competiciones. Considerando las características individuales, el tipo de deporte y el calendario de entrenamientos, diseño planes nutricionales personalizados que aseguran la ingesta adecuada de energía y nutrientes para cumplir sus metas..<p/>
 <p>
 
 <!-- Two -->
