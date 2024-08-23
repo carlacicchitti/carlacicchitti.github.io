@@ -10,7 +10,7 @@ nav-menu: true
 
 <p align="justify">Actualmente, colaboro con empresas como ISDIN y Abertis S.A., ofreciendo sesiones de nutrición para promover hábitos alimenticios saludables dentro del entorno laboral. Los cambios en la alimentación no solo mejoran el bienestar físico general de los empleados, sino que también pueden aumentar la productividad en el lugar de trabajo.<p/>
 
-<p align="justify">Además, me dedico a ayudar a deportistas a alcanzar sus objetivos, ya sea mejorar su rendimiento, modificar su composición corporal o planificar su alimentación para competiciones. Considerando las características individuales, el tipo de deporte y el calendario de entrenamientos, diseño planes nutricionales personalizados que aseguran la ingesta adecuada de energía y nutrientes para cumplir sus metas.<p/>
+<p align="justify">Además, me dedico a ayudar a deportistas a alcanzar sus objetivos, ya sea mejorar su rendimiento, modificar su composición corporal o planificar su alimentación para competiciones. Considerando las características individuales, el tipo de deporte y el calendario de entrenamientos, diseño planes nutricionales personalizados que aseguran la ingesta adecuada de energía y nutrientes para cumplir sus metas. En Sintonia Fit me encuentro asesorando futbolista juveniles que provienen de una agencia <p/>
 <p>
 
 <!-- Two -->
@@ -52,23 +52,13 @@ nav-menu: true
 				<header class="major">
 					<h3>Mi historia</h3>
 				</header>
-				<p align="justify">Estudié en Argentina el grado de Nutrición y deicidí homologar mi título para Especializarme en Nutrición Deportiva en Barcelona. Coincidió en 2018, tener la inscripción para la Maratón de Berlín (42km) por lo que viajé a Europa junto con el equipo de running de ese momento y fue la primera vez que participé en 42km y luego de allí comencé a interesarme más por el Trail Running. Me agradan los deportes en general y es parte de mi día a día entrenar</p>  
-				<p align="justify">En 2018 realicé un Máster en Nutrición Deportiva en la Universidad de Barcelona y quedé seleccionada para realizar prácticas en el Fútbol Club Barcelona.</p>
-
-				<p align="justify">En cuanto a mi experiencia laboral, he sido asesora nutricional en una empresa de alimentación y he dado varios cursos de Nutrición Deportiva Online colaborando con LevelFit Instituto de Alto Rendimiento Deportivo, en Buenos Aires, Argentina.</p>
-			</div>
-		</div>
+	<p align="justify">Estudié en Argentina el grado de Nutrición y decidí homologar mi título para especializarme en Nutrición Deportiva en Barcelona. Coincidió en 2018 tener la inscripción para la Maratón de Berlín (42km), por lo que viajé a Europa junto con el equipo de running de ese momento. Fue la primera vez que participé en 42km y luego de allí comencé a interesarme más por el Trail Running. Me agradan los deportes en general y es parte de mi día a día entrenar.</p>  
+                <p align="justify">En 2018 realicé un Máster en Nutrición Deportiva en la Universidad de Barcelona y quedé seleccionada para realizar prácticas en el Fútbol Club Barcelona.</p>
+                <p align="justify">En cuanto a mi experiencia laboral, he sido asesora nutricional en una empresa de alimentación y he dado varios cursos de Nutrición Deportiva Online colaborando con LevelFit Instituto de Alto Rendimiento Deportivo en Buenos Aires, Argentina.</p>
+            </div>
+        </div>
+    </section>
 </section>
-	
-<p>      </p>
-<p>      </p>
-
-
-<p align="justify">.</p>
-	
-<p align="justify">En cuanto a mi experiencia laboral, he sido socia y asesora nutricional de una empresa de alimentación destinada a la venta de productos sin gluten, vegetarianos, veganos, saludables, deportivos; he dado 4 temporadas cursos online de nutricion deportiva y he trabajado asesorando nutricionalmente deportistas en centros de nutrición, centro de triatlón, club de hockey...Hoy en día mi objetivo es transmitir que llevar una alimentación saludable no es cosa de unos pocos, que si bien lo parece, el alimentarse equilibradamente y llevar una vida saludable es algo que todos podemos lograr siempre y cuando nos hayan enseñado de una manera asimiladora cómo es realmente la nutrición.</p>
-					
-	
 
 <!-- Formación -->
 <h3>Formación</h3>
