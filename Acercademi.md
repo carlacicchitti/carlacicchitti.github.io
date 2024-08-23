@@ -29,7 +29,7 @@ nav-menu: true
     				<li style="color: white;">Gimnasio Horta Deportiva.</li>
     				<li style="color: white;">Sitonia Fit.</li>
 				<ul class="actions">
-					<li><a href="Servicios.html#mapas" class="button" style="color: white; border: 1px solid white;">Ver ubicación</a></li>
+					<li><a href="Servicios.html#mapas" class="button" style="color: white; border: 1px solid white;margin-top: 20px">Ver ubicación</a></li>
 				</ul>
 			</div>
 		</div>
