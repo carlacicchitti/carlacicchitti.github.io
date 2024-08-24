@@ -18,7 +18,7 @@
 	    	{% endif %}
 		{% endfor %}
 		 <!-- Orden manual: Asesorías antes que Recetas -->
-        <li><a href="{{ '/asesoriasnutricionales.html' | absolute_url }}">Asesorías nutricionales</a></li>
+        <li><a href="{{ '/asesoriasnutricionales/' | absolute_url }}">Asesorías nutricionales</a></li>
         <li><a href="{{ '/recetas.html' | absolute_url }}">Recetas</a></li>
 		{% for page in site.html_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
