@@ -8,26 +8,30 @@
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
-
 <!-- Menu -->
 <nav id="menu">
-	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		 <!-- Orden manual: Asesorías antes que Recetas -->
-        <li><a href="{{ '/servicios.html' | absolute_url }}">Asesorías nutricionales</a></li>
-        <li><a href="{{ '/recetas.html' | absolute_url }}">Recetas</a></li>
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special fit">Comenzar planificación</a></li>
-		<li><a href="Servicios.html" class="button fit">Consultar precios</a></li>
-	</ul>
+    <ul class="links">
+        <!-- Inicio -->
+        <li><a href="{{ "" | absolute_url }}/">Inicio</a></li>
+        
+        <!-- Asesorías nutricionales -->
+        <li><a href="{{ '/asesorias-nutricionales/' | absolute_url }}">Asesorías nutricionales</a></li>
+        
+        <!-- Recetas -->
+        <li><a href="{{ '/recetas/' | absolute_url }}">Recetas</a></li>
+        
+        <!-- Sobre mí -->
+        <li><a href="{{ '/sobre-mi/' | absolute_url }}">Sobre mí</a></li>
+        
+        <!-- Páginas adicionales (si existen) -->
+        {% for page in site.html_pages %}
+            {% if page.layout != "home" and page.nav-menu == true %}
+                <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+    <ul class="actions vertical">
+        <li><a href="https://easyweek.io/carla-cicchitti-nutricion-deportiva" class="button special fit">Comenzar planificación</a></li>
+        <li><a href="{{ '/servicios/' | absolute_url }}" class="button fit">Consultar precios</a></li>
+    </ul>
 </nav>
