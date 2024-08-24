@@ -57,19 +57,19 @@ nav-menu: true
 	<!-- Break -->
 	<div class="3u 12u$(medium)">
 		<h3>Club de Natación Atlètic Barceloneta (ZONA)</h3>
-		<p>ZONA.</p>
+		<p>Barceloneta.</p>
 		<div class="mapouter"><div class="gmap_canvas"><iframe width="209" height="140" id="gmap_canvas" src="https://maps.google.com/maps?q=cnab&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:140px;width:209px;}</style><a href="https://www.embedgooglemap.net">embed map in website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:140px;width:209px;}</style></div></div>
 		<p></p>
 	</div>
 	<div class="3u 12u$(medium)">
 		<h3>Gimnasio Horta Deportiva</h3>
-		<p>HAXELIA.</p>
+		<p>Horta.</p>
 		<div class="mapouter"><div class="gmap_canvas"><iframe width="209" height="140" id="gmap_canvas" src="https://maps.google.com/maps?q=Gimnasio%20Horta%20Deportiva&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:140px;width:209px;}</style><a href="https://www.embedgooglemap.net">embed map in website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:140px;width:209px;}</style></div></div>
 		<p></p>
 	</div>
 	<div class="3u$ 12u$(medium)">
 		<h3>Centro <br /> de Entrenamiento</h3>
-		<p>SINTONIA FIT.</p>
+		<p>Maragall.</p>
 		<div class="mapouter"><div class="gmap_canvas"><iframe width="209" height="140" id="gmap_canvas" src="https://maps.google.com/maps?q=Sintonia%20fit!5e0!3m2!1ses!2ses!4v1724450754079!5m2!1ses!2ses=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:140px;width:209px;}</style><a href="https://www.embedgooglemap.net">embed map in website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:140px;width:209px;}
 </style></div></div>
 			<p></p>
