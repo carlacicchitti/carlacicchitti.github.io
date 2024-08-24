@@ -37,12 +37,12 @@ nav-menu: true
 	<div class="4u 12u$(medium)">
 		<h3>Asesoría Nutricional Online</h3> <h4> PRIMERA VISITA</h4>
 		<p></p>
-    		<a href="mailto:carlacicchitti@gmail.com"  class="button special big">50 €</a>
+    		<a href="mailto:carlacicchitti@gmail.com"  class="button big">50 €</a>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Asesorias Presencial</h3> <h4>PRIMERA VISITA</h4>
 		<p></p>
-		<a href="#mapas" class="button medium">Seleccionar Centro</a>
+		<a href="#mapas" class="button special medium">Seleccionar Centro</a>
 	</div>
 </div>
 <!-- Content -->
