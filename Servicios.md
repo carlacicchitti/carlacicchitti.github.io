@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Servicios
+title: Asesorías nutricionales
 description: 'Las asesorías nutricionales dependerán de tu objetivos y características individuales como tu historial cínico, hábitos, preferencias, actividad física que realizas habitualmente.
 Si quieres mejorar hábitos, bajar de peso a partir de masa grasa, incrementar masa muscular o aprender a comer no dudes en contactarme.'
 image: null
