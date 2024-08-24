@@ -5,6 +5,7 @@ description: 'Las asesorías nutricionales dependerán de tu objetivos y caracte
 Si quieres mejorar hábitos, bajar de peso a partir de masa grasa, incrementar masa muscular o aprender a comer no dudes en contactarme.'
 image: null
 nav-menu: true
+order: 3
 ---
 
 <!-- Main -->
