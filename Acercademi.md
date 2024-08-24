@@ -4,7 +4,7 @@ title: Sobre mí
 description: 'Me considero una persona apasionada por mi profesión, por lo que hago. La nutrición y el deporte forman parte de mi vida desde hace mucho tiempo...'
 image: assets/images/
 nav-menu: true
-order:2
+order: 2
 ---
 
 <p align="justify">Me considero una persona apasionada por mi profesión y por lo que hago. La nutrición y el deporte han sido parte integral de mi vida durante mucho tiempo, y me esfuerzo por transmitir que un ESTILO DE VIDA SALUDABLE es posible para todos, adaptándose de manera equilibrada a la vida de cada persona..<p/>
